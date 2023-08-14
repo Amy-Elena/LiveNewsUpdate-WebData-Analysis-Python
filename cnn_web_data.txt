@@ -1,0 +1,1858 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://google.com/article"
+    },
+    "description": "Russian President Vladimir Putin said Monday night that \"the armed rebellion would have been suppressed anyway,\" referring to the insurrection launched by the Wagner Group over the weekend.",
+    "publisher": {
+        "@type": "Organization",
+        "name": "CNN",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://dynaimage.cdn.cnn.com/cnn/q_auto,h_60/%2F%2Fcdn.cnn.com%2Fcnn%2F.e%2Fimg%2F4.0%2Flogos%2Fcnn_logo_social.jpg"
+        }
+    },
+    "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/index.html",
+    "headline": "June 26, 2023 - Russia-Ukraine, Wagner rebellion news",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://cdn.cnn.com/cnnnext/dam/assets/230625112553-prigozhin-putin-split-super-tease.jpg",
+        "height": "1100",
+        "width": "619"
+    },
+    "datePublished": "2023-06-26T04:00:26Z",
+    "dateModified": "2023-06-27T05:16:37Z",
+    "author": {
+        "@type": "Person",
+        "name": "By <a href=\"/profiles/kathleen-magramo\">Kathleen Magramo</a>, Christian Edwards, <a href=\"/profiles/aditi-sandal\">Aditi Sangal</a>, Mike Hayes, <a href=\"/profiles/maureen-chowdhury\">Maureen Chowdhury</a> and <a href=\"/profiles/amir-vera\">Amir Vera</a>, CNN"
+    },
+    "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+            ".speakable"
+        ]
+    },
+    "@context": "http://schema.org",
+    "@type": "LiveBlogPosting",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/index.html"
+    },
+    "headline": "June 26, 2023 - Russia-Ukraine, Wagner rebellion news",
+    "description": "Russian President Vladimir Putin said Monday night that \"the armed rebellion would have been suppressed anyway,\" referring to the insurrection launched by the Wagner Group over the weekend.",
+    "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/index.html",
+    "datePublished": "2023-06-26T04:00:26Z",
+    "coverageStartTime": "2023-06-26T04:00:26Z",
+    "dateModified": "2023-06-27T05:16:37Z",
+    "coverageEndTime": "2023-06-27T04:00:26Z",
+    "publisher": {
+        "@type": "Organization",
+        "name": "CNN",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://cdn.cnn.com/cnn/.e1mo/img/4.0/logos/logo_cnn_badge_2up.png",
+            "width": 103,
+            "height": 60
+        }
+    },
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://cdn.cnn.com/cnnnext/dam/assets/230625112553-prigozhin-putin-split-super-tease.jpg",
+        "width": 1100,
+        "height": 619
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+    },
+    "about": {
+        "@type": "Event",
+        "name": "June 26, 2023 - Russia-Ukraine, Wagner rebellion news"
+    },
+    "liveBlogUpdate": [
+        {
+            "@type": "BlogPosting",
+            "headline": "What we covered here",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_265908a042ca763560b57e7e82721a4d",
+            "dateModified": "2023-06-27T04:00:12.497Z",
+            "datePublished": "2023-06-26T01:47:43.693Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_265908a042ca763560b57e7e82721a4d"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Russian President Vladimir Putin said Monday night that \"the armed rebellion would have been suppressed anyway,\" referring to the insurrection launched by the Wagner Group over the weekend.\nPutin said Wagner fighters could sign a contract with the Ministry of Defense or other Russian law enforcement, return to their families or move to Belarus.\nWagner boss Yevgeny Prigozhin broke his silence earlier Monday in an audio message \u2014 his first since allegedly agreeing to leave Russia for Belarus in a deal to end the insurrection. Belarusian officials said they cannot confirm if Prigozhin arrived in the country.\nPrigozhin said he called off the march on Moscow because he wanted to avoid Russian bloodshed and claimed it was a demonstration of protest rather than an attempt to overturn power. He remains under investigation after the revolt, a source at Russia\u2019s Prosecutor General\u2019s Office said.",
+            "image": "https://cdn.cnn.com/cnnnext/dam/assets/230625112553-prigozhin-putin-split-super-tease.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": null,
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_620847d6c2919e04035ee6e59995e368",
+            "dateModified": "2023-06-27T04:01:46.682Z",
+            "datePublished": "2023-06-27T04:00:15.479Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_620847d6c2919e04035ee6e59995e368"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Our live coverage of the fallout after Wagner's rebellion and Russia's war in Ukraine has moved here.",
+            "image": "https://cdn.cnn.com/cnnnext/dam/assets/230625112553-prigozhin-putin-split-super-tease.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "China's foreign minister touts Beijing and Moscow as a force for \"global peace\"",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_8a8f6198a5dffb0e1041900a02554cca",
+            "dateModified": "2023-06-27T03:50:30.920Z",
+            "datePublished": "2023-06-27T03:50:30.920Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_8a8f6198a5dffb0e1041900a02554cca"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Russia and China are \"an important force in ensuring global peace and in promoting inclusive development,\" Chinese Foreign Minister Qin Gang claimed in a video address Tuesday, according to Russian state news agency TASS.  Speaking at a conference in Beijing held by the\u00a0Russian International Affairs Council and the Chinese Academy of Social Sciences, Qin reiterated Beijing's support for Moscow, saying it plans to work with Russia to oppose the \"use of force and hegemony of individual states,\" TASS said. Qin's remarks come after senior Chinese officials expressed support for Moscow during a meeting with Russia's Deputy Foreign Minister Andrey Rudenko in Beijing on Sunday following the Wagner rebellion, according to a Russian Foreign Ministry statement. Some context: China and Russia declared a\u00a0friendship with \u201cno limits\u201d\u00a0in February 2022, shortly before Russian President Vladimir Putin launched his war on Ukraine. Since then, Beijing has refused to condemn the invasion and instead provided much-needed diplomatic and\u00a0economic support\u00a0for Russia while attempting to portray itself as a peacemaker in the conflict \u2014 a position that has further soured its relations with Western nations.",
+            "image": "https://cdn.cnn.com/cnnnext/dam/assets/230625112553-prigozhin-putin-split-super-tease.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Putin addresses insurrection and Prigozhin's whereabouts are unknown. Here's what you need to know",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_1fbe9d286fb865ebc2fea7ffd89f6d36",
+            "dateModified": "2023-06-27T00:01:47.359Z",
+            "datePublished": "2023-06-26T22:03:43.281Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_1fbe9d286fb865ebc2fea7ffd89f6d36"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "In the aftermath of Saturday's insurrection by the Wagner Group, Russian President Vladimir Putin said Monday that the \"armed rebellion would have been suppressed anyway.\"   Putin's last address to the nation was on Saturday as Wagner chief\u00a0Yevgeny Prigozhin\u00a0and his forces launched their march toward Moscow. Putin thanked the Wagner fighters who made the \"right decision\" and halted their advance.\u00a0He said those fighters would have the \"opportunity to continue serving Russia by entering into a contract with the Ministry of Defense or other law enforcement agencies or to return to your family and friends. Whoever wants to can go to Belarus.\" He did not mention Prigozhin by name, but he accused \u201cthe organizers of the rebellion\u201d of \u201cbetraying their country, their people, (and) also betrayed those who were drawn into the crime.\u201d The Wagner march was called off when a supposed deal was struck that would see Prigozhin move to Belarus. Prigozhin remains\u00a0under investigation\u00a0following the rebellion, according to a source at Russia\u2019s Prosecutor General\u2019s Office. Here are the latest headlines on the rebellion and Russia's war in Ukraine:   Putin meets with top officials after insurrection: Putin held a meeting\u00a0with the heads of security agencies, including Defense Minister Sergei\u00a0Shoigu, Kremlin spokesperson Dmitry Peskov said on Monday night, according to state media RIA Novosti. Prigozhin had previously accused Shoigu and Russia\u2019s top general, Valery Gerasimov, of not giving his forces ammunition and was critical of their handling of the conflict in Ukraine. Putin also spoke with UAE President\u00a0Mohamed bin Zayed Al\u00a0Nahyan about\u00a0the rebellion, according to the Kremlin.  \nWagner chief explains his reasoning: Earlier on Monday, Prigozhin broke his silence in an audio message, saying he\u00a0called off the march\u00a0to prevent Russian bloodshed and that the rising was a protest rather than an attempt to topple the government. The Wagner boss said the Russian Defense Ministry had planned for the Wagner private military group to\u00a0\"cease to exist\"\u00a0starting on July 1.\nUS response to \"armed rebellion\": As Russia faced a shocking rebellion, White House officials reached out to foreign and domestic oil producers about the situation unfolding in one of the world\u2019s leading oil powers, a US official told CNN. On Monday, US President Joe Biden said he'd instructed members of his national security team to \"prepare for a range of scenarios\" as the rebellion was underway. Biden emphasized the US and its allies\u00a0had \"nothing to do\"\u00a0with Saturday's events in Russia.\nLukashenko to answer questions: Belarusian state media said President Alexander Lukashenko will answer questions from journalists on Tuesday, according to Russian state media\u00a0RIA Novosti.\u00a0Prigozhin had agreed Saturday to leave Russia for Belarus, the Kremlin said, in a deal apparently brokered by Lukashenko, a close Putin ally.\u00a0The Wagner chief's whereabouts remain unknown.\nUS intel was aware: US intelligence officials were able to gather an extremely detailed and accurate picture of Prigozhin's plans leading up to his short-lived rebellion, including where and how Wagner was planning to advance, sources familiar with the matter told CNN. But the intelligence was so closely held that it was shared only with select allies, including senior British officials, and not at the broader NATO level, sources said.\nRussia's lower parliament says defense forces had total control: The Russian State Duma, or lower parliament, said the defense forces exercised total control during\u00a0Wagner's armed rebellion, according to Russian state media TASS. Andrey Kartapolov, the Duma's head of the Defense Committee, said that \u201cno chaos arose in the Russian defense forces in the background of an attempted armed rebellion, combat control was not interrupted even for a minute.\"\nZelensky claims Ukraine forces have made advances: President Volodymyr Zelensky said Ukrainian forces have made advances on all fronts. The remarks followed his visit to the\u00a0frontlines\u00a0of the\u00a0Donetsk region and Zaporizhzhia on Monday. The Ukraine military said separately that Russia was focusing its efforts on cities in\u00a0the eastern\u00a0Donetsk region.",
+            "image": "https://cdn.cnn.com/cnnnext/dam/assets/230625112553-prigozhin-putin-split-super-tease.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Ukrainian fighters have advanced in all directions of frontline, Zelensky says",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_f6b6985460bd26460a7d8212a8e73a7d",
+            "dateModified": "2023-06-26T23:40:51.008Z",
+            "datePublished": "2023-06-26T23:08:04.595Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_f6b6985460bd26460a7d8212a8e73a7d"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Ukrainian President Volodymyr Zelensky said\u00a0Monday that Ukrainian forces have made advances on all fronts. CNN cannot verify the Ukrainian accounts of advances on the battlefields. Zelensky's\u00a0comments followed his visit to the\u00a0frontlines\u00a0of the\u00a0Donetsk region and Zaporizhzhia on Monday. Zelensky\u00a0said he\u00a0awarded Gold Stars of the Hero of Ukraine to two fighters and met with several generals. The Ukrainian president added that\u00a0\u201cseveral operational decisions were made\u201d during his meeting with the generals.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/b7d23b50-48a0-41d5-8e1b-bf21f8876ace.jpeg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "During Wagner rebellion, allies reached out to Ukraine advising not to strike inside Russia",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_6ee9075ac053ab0c6cbb2c0d9a226720",
+            "dateModified": "2023-06-26T22:40:13.314Z",
+            "datePublished": "2023-06-26T22:40:13.314Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_6ee9075ac053ab0c6cbb2c0d9a226720"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Before Wagner chief Yevgeny Prigozhin stood down on Saturday, there was outreach to Ukrainian officials from allies on a number of different levels, cautioning them to resist taking advantage of the chaos to strike inside Russia, according to a Western official. The concern was that Ukraine and the West would be seen as helping Prigozhin and threatening Russian sovereignty. \"It's an internal Russian matter,\" the official said the Ukrainian officials were told, echoing what US and other Western officials have said publicly.  \"Ukrainians were being cautioned by allies not to provoke the situation. Make hay of opportunities on Ukrainian territory but don't get drawn into internal matters or strike at offensive military assets inside of Russia,\" the official said. In the war with Russia, Ukraine is suspected of carrying out a growing number of covert cross-border attacks and sabotage on Russian military facilities and even a drone strike on the Kremlin. Ukrainian forces have shelled the Russian Belgorod region, near the border between the countries.",
+            "image": "https://cdn.cnn.com/cnnnext/dam/assets/230625112553-prigozhin-putin-split-super-tease.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Wagner uprising \"was almost hiding in plain sight,\" US Sen. Mark Warner says",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_f2767976d7444a87255696486b07e9c2",
+            "dateModified": "2023-06-26T23:32:14.546Z",
+            "datePublished": "2023-06-26T22:24:30.618Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_f2767976d7444a87255696486b07e9c2"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Wagner chief Yevgeny Prigozhin's uprising did not come out of nowhere. US officials had been tracking his ongoing growing feud with Russia's Ministry of Defense for months and took note when threats were traded back and forth between them. There were also signs that Wagner was stockpiling weapons and ammunition leading up to the rebellion, CNN has reported. Democratic Sen. Mark Warner, the chairman of the Senate Intelligence Committee and a member of the Gang of Eight, told CNN that Prigozhin's rebellion \"was almost hiding in plain sight.\" Still, it was surprising to US intelligence officials how little resistance Wagner faced. \"The fact that you have a mercenary group, that I don't think had a full 25,000 troops the way Prigozhin claimed, but was able to literally march into Rostov, a city of a million people which was the command and control for the whole Ukrainian war and take it over with barely a shot fired \u2014 that is unprecedented, to say the least,\" Warner said. Multiple sources told CNN that US and Western officials believe that Putin was simply caught off guard by Prigozhin's actions and did not have time to array his forces against the mercenaries before they managed to seize control of the military headquarters in Rostov. Putin also\u00a0likely did not want to divert significant resources away from Ukraine, officials said. Officials do believe, however, that had Prigozhin tried to seize Moscow or the Kremlin, he would have lost \u2014 decisively. That is likely why Prigozhin agreed to strike a deal with Belarus and ultimately turned his troops around, the officials said. Once Prigozhin launched his rebellion, senior US officials began scrambling to connect with allies and partners and reiterate a key message: The West should remain silent and not give Putin any opening to lay the blame on the US or NATO for the insurrection. Privately, US officials were reinforcing to the Russian government that the US had nothing to do with the uprising \u2014 and urging them to maintain the safety and security of their nuclear arsenal, officials said.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/d0978fb3-ad45-4cc3-9961-9885ac232543.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "US gathered detailed intelligence on Wagner chief's rebellion plans but kept it secret, sources say",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_2db9e18683d7bf1af80f96c32e20d585",
+            "dateModified": "2023-06-26T22:16:43.940Z",
+            "datePublished": "2023-06-26T22:16:43.940Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_2db9e18683d7bf1af80f96c32e20d585"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "US intelligence officials were able to gather an extremely detailed and accurate picture of Wagner chief Yevgeny Prigozhin's plans leading up to his short-lived rebellion, including where and how Wagner was planning to advance, sources familiar with the matter told CNN. But the intelligence was so closely held that it was shared only with select allies, including senior British officials, and not at the broader NATO level, sources familiar with the matter told CNN. It was not clear exactly when Prigozhin would act, the sources said. But he appears to have decided to move forward with his plan following a June 10 declaration by Russia's Ministry of Defense that all private military companies, including Wagner, would be forced to sign contracts with Russia's military beginning in July and essentially be absorbed by the Russian Ministry of Defense. The intelligence was so secret that within the US, it was briefed only to the most senior administration officials as well as the Gang of Eight members of Congress who have access to the most sensitive intelligence matters. The secrecy surrounding the intelligence was why some senior European officials and even senior officials across the US government were caught off guard by Prigozhin's attack on Friday, and the speed with which Wagner forces marched into Rostov-on-Don and up toward Moscow into Saturday morning, the sources said. Some NATO officials expressed frustration that the intelligence was not shared. But doing so would have risked compromising extremely sensitive sources and methods, sources explained. Ukrainian officials were not told about the intelligence in advance, either, officials said, due primarily to fears that conversations between US and Ukrainian officials might be intercepted by adversaries. Biden spent the days after the rebellion fizzled out speaking with allies, including the leaders of France, Germany, the United Kingdom and Canada, as well as Ukrainian President Volodomyr Zelensky. During those conversations, he shared what information the US had about the rebellion, according to officials, in order to ensure the leaders had a better understanding of what was known to US intelligence.",
+            "image": "https://cdn.cnn.com/cnnnext/dam/assets/230625112553-prigozhin-putin-split-super-tease.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Analysis: Here's how Ukraine will seek to take advantage following rebellion in Russia",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_fd0789c9dccdc590c75d113af005c176",
+            "dateModified": "2023-06-26T22:17:09.120Z",
+            "datePublished": "2023-06-26T22:12:51.883Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_fd0789c9dccdc590c75d113af005c176"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Seismic shifts\u00a0in Moscow must surely spell similar earthquakes along the\u00a0front lines in Ukraine. But as of Monday, that\u2019s yet to happen. Ukraine\u2019s forces have announced slight changes along the southern front during the weekend and more sustained progress around the largely symbolic city of\u00a0Bakhmut\u00a0\u2014where thousands of Wagner fighters likely died over the winter. On Monday morning, Deputy Defense Minister Hanna Mailar said Ukrainian troops had retaken Rivnopil in Donetsk region, which might suggest greater progress in the south. But there has been no Russian collapse, despite that appearing as a major possibility in Moscow during a large part of Saturday, as\u00a0mutinous Wagner forces\u00a0threatened to march on the Russian capital. Disruption to Russia\u2019s presence around Bakhmut is a more likely outcome from the weekend\u2019s turmoil, where some Wagner fighters may retain a presence but where Ukraine has already been advancing. There will undoubtedly have been some changes to Russia\u2019s military positioning as a result of Wagner\u2019s failed insurrection. The group appears to have prepared their rebellion for some time and the units used will hence not have been suddenly withdrawn from the trenches last week. But the Russian military may have panicked at seeing mercenaries advance on Moscow and sent help. A key moment for Moscow's adversaries: This all provides opportunities that Russia\u2019s enemies must seize carefully. Ukraine and its NATO allies will urgently be trying to assess what and where they are, and whether they provide a material advantage to their\u00a0counteroffensive. But this is not something you would seek to rush or get wrong. The sudden application of a bulk of Ukraine\u2019s forces to exploit Russian weaknesses is something Kyiv will doubtless have been patiently waiting for and weighing the merits of for weeks. The weekend\u2019s events have left an indelible mark on the Kremlin\u2019s chances of success in the war. And there are three different ways this can assist Ukraine. Read more.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/3e243fcc-6981-4fbe-a2a3-f80c7c4dd3e0.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Putin speaks to Emirati counterpart about Wagner rebellion, the Kremlin says",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_57301790db6b58b85a7e3d3c2338b3b2",
+            "dateModified": "2023-06-26T20:56:30.643Z",
+            "datePublished": "2023-06-26T20:56:30.643Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_57301790db6b58b85a7e3d3c2338b3b2"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Russian President Vladimir Putin spoke to UAE President\u00a0Mohamed bin Zayed Al\u00a0Nahyan about the June 24 Wagner rebellion, according to the Kremlin on Monday. The call was at the initiative of the Emirati side, and the president was interested in \"hearing assessments of the situation in Russia in connection with the attempted rebellion on June 24,\" the Kremlin said. Mohamed bin Zayed declared his \"full support for the actions of the Russian leadership,\" according to the Kremlin. UAE state news agency WAM tweeted on Monday saying the UAE and Russian presidents discussed bilateral relations over a phone call and \"reaffirm the need to preserve the stability of Russia and the safety of its people.\" The two leaders also discussed cooperation between their countries following their meeting on June 16 at\u00a0St. Petersburg International Economic Forum, according to the Kremlin statement.  Some context: At that meeting the two leaders discussed bilateral relations and the situation in Ukraine, according to UAE state news agency WAM on June 16.",
+            "image": "https://cdn.cnn.com/cnnnext/dam/assets/230625112553-prigozhin-putin-split-super-tease.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Putin is holding meeting with top security officials, including defense minister, Kremlin says",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_aee4bf44190e4240cb397c3bfdcebb49",
+            "dateModified": "2023-06-26T21:17:22.391Z",
+            "datePublished": "2023-06-26T20:02:14.972Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_aee4bf44190e4240cb397c3bfdcebb49"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Russian President Vladimir Putin is holding a meeting\u00a0with the heads of security agencies, Kremlin spokesperson Dmitry Peskov said on Monday night, according to state media RIA Novosti.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/1c0b7d10-bc0a-4cc8-9f26-8fe30096f085.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Putin says Wagner fighters can sign up with defense ministry, return to families or move to Belarus",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_843e73d457981ab25dd14987f67ac4db",
+            "dateModified": "2023-06-26T19:39:18.381Z",
+            "datePublished": "2023-06-26T19:38:07.904Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_843e73d457981ab25dd14987f67ac4db"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Russian President Vladimir Putin on Monday thanked the Wagner Group fighters who made the \"right decision\" and halted their advance.\u00a0 \"I thank those soldiers and commanders of the Wagner Group who made the only right decision \u2014 they did not go for fratricidal bloodshed, they stopped at the last line,\" Putin said in an address to the nation. During the address to the nation, Putin did not mention Wagner leader\u00a0Yevgeny Prigozhin  by name.\u00a0 Prigozhin broke his silence earlier Monday in an audio message \u2014 his first since allegedly agreeing to leave Russia for Belarus in a deal to end the insurrection. Belarusian officials said they cannot confirm if Prigozhin arrived in the country. Putin's address on Monday lasted five minutes.",
+            "image": "https://cdn.cnn.com/cnnnext/dam/assets/230625112553-prigozhin-putin-split-super-tease.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "\"Armed rebellion would have been suppressed anyway,\" Putin says",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_8e94d4480820c2066292e117b97e7ae8",
+            "dateModified": "2023-06-26T21:04:00.112Z",
+            "datePublished": "2023-06-26T19:22:09.975Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_8e94d4480820c2066292e117b97e7ae8"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Russian President Vladimir Putin, in an address to the nation Monday night, said the \"armed rebellion would have been suppressed anyway,\" a reference to the insurrection launched by the Wagner Group.   Putin was speaking from inside the Kremlin in\u00a0Moscow, according to Russian state media TASS. The Russian president appeared to be speaking in a pre-recorded address.\u00a0 Putin's last address to the nation was on Saturday morning while Yevgeny Prigozhin and Wagner forces launched their march toward Moscow.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/1d070828-154d-4e2e-ad85-b18f14a35228.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "US reached out to oil producers at home and abroad as chaos engulfed Russia, official says",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_732c07d93221e3f7b59c11a29ba4329c",
+            "dateModified": "2023-06-26T20:06:24.906Z",
+            "datePublished": "2023-06-26T19:52:52.729Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_732c07d93221e3f7b59c11a29ba4329c"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "As Russia faced a shocking rebellion, White House officials reached out to foreign and domestic oil producers about the dangerous situation unfolding in one of the world\u2019s leading oil powers, a US official told CNN on Monday. The conversations with oil producers were described as precautionary in nature.\u00a0They occurred as other American officials were seeking more information about what was really happening inside Russia and attempting to assess the potential consequences, including on the global economy.\u00a0 Wagner mercenary boss Yevgeny Prigozhin generated international concern over the weekend by capturing a Russian city and threatening to march all the way to Moscow.\u00a0 On Monday, US President Joe Biden said he'd instructed members of his national security team to \"prepare for a range of scenarios\" as the would-be rebellion was underway. Representatives from the White House, Energy Department and Treasury Department did not comment on the outreach to oil producers.\u00a0 The shocking images raised the specter of a nightmare scenario for the US economy where instability derails Russian oil flows, sending gasoline prices skyrocketing just as inflation has cooled. \u201cRussia matters because it\u2019s the world\u2019s largest net oil exporter. Period,\u201d said Bob McNally, a former senior energy official to President George W. Bush. \u201cRevolutions in major oil countries are a huge deal. I\u2019m sure that focused minds in the White House over the weekend.\u201d Potential impact: Russia exported 7.8 million barrels of oil\u00a0and petroleum products per day in May, according to the International Energy Agency. McNally, president of consulting firm Rapidan Energy Group, said chaos in Russia could theoretically shut down oil production or block export facilities. He recalled how Russia\u2019s invasion of Ukraine early last year set off shockwaves in energy markets. \u201cWhen we thought we were going to lose Russia \u2014 just the thought of it \u2014 caused gasoline to go to $5 a gallon,\u201d McNally said.\u00a0 Investors breathed a sigh of relief as Prigozhin\u2019s rebellion proved short-lived, with the Wagner boss turning around his march toward Moscow.\u00a0After\u00a0briefly climbing on the Russia news, US oil prices closed just 0.3% higher on Monday at $69.37 a barrel.\u00a0\u00a0 Helima Croft, a former CIA analyst who now heads global commodity strategy at RBC Capital Markets, told clients on Sunday that she understands the White House was \u201cactively engaged\u201d on Saturday in \u201creaching out to key foreign and domestic producers about contingency planning to keep the market well supplied if the crisis impacted Russian output.\u201d Croft said a \"significant concern\" was that Putin would declare martial law and prevent \"workers from showing up to major loading ports and energy facilities\" and therefore potentially halt \"millions of barrels of exports.\"  The former CIA analyst recalled how deep unrest in Libya shut down vast amounts of production in that OPEC nation last decade, sending oil prices surging. \u201cThere was a concurrent concern that critical pipelines could either be directly targeted or inadvertently damaged if the insurrection turned into a full-scale war,\u201d Croft wrote in a note.  McNally said it is standard operating procedure for US energy officials to gather intel during crises like the one that unraveled in Russia. He noted that \"checking with their sources in the industry while the world\u2019s largest exporter is experiencing shocking instability is good business practice.\"",
+            "image": "https://cdn.cnn.com/cnnnext/dam/assets/230625112553-prigozhin-putin-split-super-tease.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Russia continues to focus \"main efforts\" on cities in eastern Donetsk region, Ukraine says",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_e1808ae45d88a8516e408ba4e1d6ec65",
+            "dateModified": "2023-06-26T19:14:44.695Z",
+            "datePublished": "2023-06-26T19:04:38.445Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_e1808ae45d88a8516e408ba4e1d6ec65"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Russia continues to focus its \"main efforts\" on cities in\u00a0the eastern\u00a0Donetsk region, Ukraine's Armed Forces said on Monday evening. In the direction of Bakhmut, Russia carried out \"unsuccessful offensive operations in the vicinities of Bohdanivka. They carried out airstrikes in the Soledar and Bila Hora areas of the Donetsk Oblast,\" according to the General Staff update.\u00a0 In the Marinka area, Russia carried out unsuccessful offensive actions and \"conducted an air strike near Krasnohorivka,\" the update added.\u00a0 In the regions of\u00a0Zaporizhzhia and Kherson, Russian forces are on the defensive and concentrating their main efforts \"on preventing the advance of Ukrainian troops,\" Ukraine's Armed Forces said. \"The threat of missile and air strikes across Ukraine remains high,\" the General Staff said, adding that Russian forces carried out 36 airstrikes and launched 17 attacks from\u00a0Multiple Launch Rocket Systems (MLRS) within the last day.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/549dbc20-1fe4-4c8c-b060-03ef49babb4c.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Russia's State Duma claims defense forces exercised total control during Wagner rebellion, state media reports",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_13ef6bfae5d0666146740b665b320938",
+            "dateModified": "2023-06-26T18:59:06.520Z",
+            "datePublished": "2023-06-26T18:58:42.339Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_13ef6bfae5d0666146740b665b320938"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "The Russian State Duma, or lower parliament, claimed that its defense forces exercised total control during Wagner armed rebellion, according to Russian state media TASS.  TASS quoted Andrey Kartapolov, the Duma's head of the Defense Committee, in a Telegram post on Monday.\u00a0 Kartapolov said that \u201cno chaos arose in the Russian defense forces in the background of an attempted armed rebellion, combat control was not interrupted even for a minute,\" according to the TASS report. Kartapolov also commented on the Ukrainian counteroffensive, saying it is \u201cnot going according to the plan due to heavy losses,\u201d TASS reported. \"There was and is no large-scale counteroffensive. There are attempts to attack in different directions, the losses that Ukraine is suffering today are crucial, not critical, but crucial,\" Kartapolov said on the air of the Russian state TV Rossiya-1.",
+            "image": "https://cdn.cnn.com/cnnnext/dam/assets/230625112553-prigozhin-putin-split-super-tease.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Putin will deliver \"important statements\" soon, Kremlin says",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_2bef691d8009c7ae4a01bd8e855d2345",
+            "dateModified": "2023-06-26T18:34:17.359Z",
+            "datePublished": "2023-06-26T18:32:59.704Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_2bef691d8009c7ae4a01bd8e855d2345"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Russian President Vladimir Putin will speak later this evening, a Kremlin spokesperson said Monday.",
+            "image": "https://cdn.cnn.com/cnnnext/dam/assets/230625112553-prigozhin-putin-split-super-tease.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Belarusian President Alexander Lukashenko will answer questions from journalists Tuesday, state media says",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_a30868eee415a4c053ddfaa3290c1254",
+            "dateModified": "2023-06-26T19:45:10.203Z",
+            "datePublished": "2023-06-26T18:25:09.611Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_a30868eee415a4c053ddfaa3290c1254"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Belarusian state media said President Alexander Lukashenko will answer questions from journalists on Tuesday, according to Russia state media\u00a0RIA Novosti.\u00a0 Earlier Monday, state news agency Belta said Lukashenko will \"answer all,\" in an apparent reference to the questions swirling around the Minsk-brokered deal to allow Wagner leader\u00a0Yevgeny Prigozhin to travel to Belarus.\u00a0\u00a0 What the Kremlin said: The Kremlin has claimed that Prigozhin agreed to leave Russia under a Minsk-brokered deal that would reportedly see him enter into exile in Belarus without facing criminal charges for the rebellion.\u00a0 Lukashenko \u201cextended his hand\u201d and offered to find solutions to further the work of the Wagner Group in a legal way, Prigozhin said earlier, mirroring the line that Minsk and the Kremlin has communicated about why the march suddenly ended. Belarusian officials have previously said they cannot confirm if Prigozhin has arrived in the country or what his status will be in Belarus.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/364edfab-9f3c-4124-ac5c-3a509c8fdd90.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "US State Department is not commenting on Prigozhin's motivations and has no assessment about his location",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_54708773bd0a35a88686c8a69d3da747",
+            "dateModified": "2023-06-26T19:15:54.507Z",
+            "datePublished": "2023-06-26T18:29:28.404Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_54708773bd0a35a88686c8a69d3da747"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "The US State Department would not speculate on Wagner boss Yevgeny Prigozhin\u2019s motivations for inciting an armed rebellion in Russia over the weekend. \u201cI\u2019ll say, it is Vladimir Putin that raised the specter of 1917, not someone, not anyone from the United States government,\u201d said State Department spokesperson Matthew Miller at a press briefing, adding that he was not aware of any US contact with Belarusian President Alexander Lukashenko's regime over the matter. Miller said he did not have an assessment of Prighozin\u2019s location or the disposition of Wagner forces in Ukraine or elsewhere.  The situation in Russia remains dynamic, he continued. \u201cIt's unclear what the ultimate implications of what happened will be as it relates to United States activities and United States interests,\u201d Miller said, calling the move by Prigozhin \u201ca significant step.\u201d \u201cIt is a certainly a new thing to see President Putin's leadership directly challenged,\u201d said Miller. \u201cIt is a new thing to see Yevgeny Prigozhin directly questioning the rationale for this war, and calling out that the war has been conducted essentially based on a lie, which is something that we have said previously, but we certainly have not seen coming from Russian officials previously.\u201d",
+            "image": "https://cdn.cnn.com/cnnnext/dam/assets/230625112553-prigozhin-putin-split-super-tease.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Russia's main motivation in war is to keep the land it has already seized, Ukraine official says",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_d8354fa91de367eeaf2e34fae86f3c30",
+            "dateModified": "2023-06-26T18:19:26.814Z",
+            "datePublished": "2023-06-26T18:19:26.814Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_d8354fa91de367eeaf2e34fae86f3c30"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Ukraine's\u00a0deputy defense minister said on Monday that Russia's main motivation is to keep land it already seized.\u00a0 She added, \"The task of the Russian Federation now is to stop our offensive at any cost. By blowing up dams, mining fields, continuous shelling, sabotage, information campaigns, and even 'nuclear' rhetoric.\"  Maliar acknowledged that it is a difficult time for Ukrainian troops as they continue their offensive.\u00a0 \"Our troops are really having a hard time now. It is very difficult.\u00a0But they are moving forward. Steadily,\" she said. \"Because we are fighting a just war. And this is our strength.\"",
+            "image": "https://cdn.cnn.com/cnnnext/dam/assets/230625112553-prigozhin-putin-split-super-tease.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "US expected to announce another $500 million military aid package for Ukraine, official says",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_df10982411f06a477706aaa7163349d4",
+            "dateModified": "2023-06-26T17:04:00.206Z",
+            "datePublished": "2023-06-26T17:04:00.206Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_df10982411f06a477706aaa7163349d4"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "The US is expected to announce another military aid package to Ukraine totaling approximately $500 million, a US official told CNN. The aid, which is expected to be announced on Tuesday, will include additional\u00a0Bradley and Stryker fighting vehicles, the official said, and will be provided to Ukraine via Presidential Drawdown Authority. Ukraine lost several armored vehicles in the early days of its counteroffensive, which US officials believe Ukrainian forces launched earlier this month. The package comes as US officials continue to assess what impact the Wagner rebellion inside Russia will have on Russia\u2019s war in Ukraine. US\u00a0and western\u00a0officials told CNN last week that the Ukrainian counteroffensive has not been meeting expectations, with Russian lines of defense proving well-fortified. Russian forces have also had success bogging down Ukrainian armor with missile attacks and mines and have been deploying air power more effectively.\u00a0 The last package, announced earlier this month, was valued at about $325 million and included new air defense and rocket systems for Ukraine.\u00a0 The US has provided more\u00a0than $39 billion\u00a0in security assistance to Ukraine since the beginning of Russia's invasion in February 2022, including $22 billion in presidential drawdowns.",
+            "image": "https://cdn.cnn.com/cnnnext/dam/assets/230625112553-prigozhin-putin-split-super-tease.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Long-range missiles have had \"significant impact on the battlefield,\" UK defense secretary says",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_87a4d960d8f79a06c8b03a273162c6e7",
+            "dateModified": "2023-06-26T16:59:38.635Z",
+            "datePublished": "2023-06-26T16:59:38.635Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_87a4d960d8f79a06c8b03a273162c6e7"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "British Defense Secretary Ben Wallace said on Monday that Storm Shadow long-range missiles supplied to Ukraine by the United Kingdom have had a \u201csignificant impact on the battlefield.\u201d \"It has had an effect on the Russian army,\" Wallace told lawmakers in the House of Commons. \"We absolutely would urge other international partners to come forward with their deep fires that are required.\" In May, CNN\u00a0first reported\u00a0that the UK had delivered multiple Storm Shadow cruise missiles to Ukraine, giving the nation a new long-range strike capability.\u00a0The Storm Shadow is a long-range cruise missile with stealth capabilities,\u00a0jointly developed\u00a0by the UK and France.",
+            "image": "https://cdn.cnn.com/cnnnext/dam/assets/230625112553-prigozhin-putin-split-super-tease.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "It's nighttime in Kyiv. Here's the latest on the Wagner rebellion and other key developments in the war",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_425cca389dcb00d65bd9b65048256319",
+            "dateModified": "2023-06-26T19:57:56.378Z",
+            "datePublished": "2023-06-26T17:11:45.545Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_425cca389dcb00d65bd9b65048256319"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Wagner boss\u00a0Yevgeny Prigozhin\u00a0broke his silence in a new audio message Monday \u2014 his first since ending a short-lived rebellion.  Troops from his private military group on Saturday seized control of a military base\u00a0and moved in convoy towards Russia\u2019s capital, a remarkable and unexpected challenge to Russian President Vladimir Putin.  The march was suddenly called off when a supposed deal was struck that would see Prigozhin move to Belarus. The leader remains under investigation following the rebellion, according to a source at Russia\u2019s Prosecutor General\u2019s Office. Here are the latest headlines on the rebellion and Russia's war in Ukraine: Wagner chief explains his reasoning: Prigozhin said in the audio Monday that he called off the demonstration to prevent Russian bloodshed and that the rising was a protest rather than attempt to topple the government. \u201cThe purpose of the march was to prevent the destruction of PMC Wagner and to bring to justice those who, through their unprofessional actions, made a huge number of mistakes during the special military operation,\u201d Prigozhin said the audio message, referring to Russia\u2019s invasion of Ukraine.  \nPrigozhin claims Russian defense ministry wanted Wagner to \"cease to exist\": The Russian Defense Ministry had planned for the Wagner private military group to \"cease to exist\" starting on July 1, Prigozhin also claimed Monday in the audio message. \"No one agreed to sign a contract with the Defense Ministry, since everyone knows very well from the current situation and their experience during the special military operation that this will lead to a complete loss of combat capability,\"\u00a0Prigozhin said. He then proceeded to say that some fighters did sign contracts with the Ministry of Defense, but claimed that it was only a minimal number.\nRussia is investigating whether Western intelligence was involved in rebellion: Russian Foreign Minister Sergey Lavrov said in video comments to Russia Today that the country's special services are investigating whether Western intelligence services were involved in the events which unfolded in Russia Saturday. Russia often alleges foreign interference in domestic ongoings. Lavrov did not immediately present evidence or further information of that alleged investigation. He did claim that the US ambassador to Russia signaled that the US had \"nothing to do\" with the events.\nBiden says US and Western allies \"had nothing to do\" with rebellion: President Joe Biden emphasized Monday that the US and its Western allies had \"nothing to do\" with Saturday's events in Russia. Biden said he directed the national security team to monitor the developments closely and report to him \"hour by hour\" and prepare for a range of scenarios. He said he also spoke to the United States' key allies over the weekend to \"make sure we are all on the same page.\"\nWagner recruitment centers resume work: Wagner Group recruitment centers in the Russian cities of Tyumen and Novosibirsk have resumed recruiting fighters, according to Russian state media on Monday, following temporary closures over the weekend due to the armed Wagner Group rebellion. The Wagner Group center in St. Petersburg also told CNN on Monday that the center \"continues to operate as usual in accordance with the legislation of the Russian Federation.\"\n\u201cTactical success\u201d:\u00a0Ukrainian forces have been engaged in heavy fighting over the past week and have enjoyed\u00a0\u201ctactical success,\u201d\u00a0according to deputy defense minister Hanna Maliar. The Ukrainian army has continued offensive operations near Melitopol and Berdiansk in the south, and around Lyman and Bakhmut in the east, Maliar said. The official also claimed Ukraine has regained control of Rivnopil, a southeastern settlement in the Donetsk region on the Zaporizhzhia border. CNN cannot independently verify this claim. CNN's Mariya Knight, Anna Chernova and Rob Picheta contributed reporting to this post.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/707e9fed-ba82-4554-98e8-085a3867a1b9.JPG"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Prigozhin's rebellion represents an unprecedented challenge to Putin, British foreign minister says",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_9ddbab954cec114a4be823aa677563ac",
+            "dateModified": "2023-06-26T16:44:30.509Z",
+            "datePublished": "2023-06-26T16:44:30.509Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_9ddbab954cec114a4be823aa677563ac"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "British Foreign Minister James Cleverly said Monday that Russia\u2019s Wagner Group rebellion, led by Yevgeny Prigozhin, represented an \u201cunprecedented challenge\u201d to Russian President Vladimir Putin.   Speaking in the UK\u2019s House of Commons, Cleverly went on to say that the British government considered the incident \u201can internal Russian affair.\u201d \u201cAnd of course, the leadership of Russia is a matter exclusively for the Russian people. But everybody should note that one of Putin's proteges had publicly destroyed his case for the war in Ukraine,\u201d he added.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/071e1bf8-fd58-4f60-92dc-bab231a44875.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Zelensky visits troops in Ukraine's eastern Donetsk region",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_2f356dc433caf32ade9e5d0f1c325eb4",
+            "dateModified": "2023-06-26T16:40:18.888Z",
+            "datePublished": "2023-06-26T16:40:18.888Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_2f356dc433caf32ade9e5d0f1c325eb4"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Ukrainian\u00a0President Volodymyr Zelensky on Monday visited troops in the country's eastern Donetsk region, according to his office. In a video released by the president's office, Zelensky is seen speaking with military officers and soldiers from units of the Khortytsia operational group, including \"troops that distinguished themselves in fierce battles in the Bakhmut direction.\" A separate video from the presidential office on Monday showed Zelensky greeting military personnel and gas station workers in\u00a0Donetsk, thanking them for the work they are doing to support Ukraine.\u00a0 Zelensky \"stopped at a gas station in Donetsk region and had coffee with the military who were there,\" according to the news release from his office. \"The President wished the soldiers health and good luck in battles.\"",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/ad51a37f-9051-4b10-afeb-6cf0d2670867.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "\"It's still too early to reach a definitive conclusion,\" Biden says on the situation in Russia",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_5fdfdbd861c377acac218cc5ff9153b2",
+            "dateModified": "2023-06-26T16:31:23.376Z",
+            "datePublished": "2023-06-26T16:29:54.221Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_5fdfdbd861c377acac218cc5ff9153b2"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "US President Joe Biden said that it's still too soon \"to reach a definitive conclusion\" on the impacts of the rebellion in Russia this weekend \u2014 but pledged to stay closely coordinated with allies and partners.\u00a0 Biden said it was key that the US stay closely aligned with allies and partners as it continues to monitor the situation.  \"The ultimate outcome of all of\u00a0this remains to be seen, but no\u00a0matter what comes next I will\u00a0keep making sure that our allies\u00a0and our partners are closely\u00a0aligned in how we are reading\u00a0and responding to the situation.\u00a0It's important we stay\u00a0completely coordinated,\" he said.",
+            "image": "https://cdn.cnn.com/cnnnext/dam/assets/230625112553-prigozhin-putin-split-super-tease.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Biden: US and Western allies \"had nothing to do\" with Russian rebellion",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_03076c3144bfc220271455b3bdd8f81b",
+            "dateModified": "2023-06-26T18:33:44.095Z",
+            "datePublished": "2023-06-26T16:20:26.245Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_03076c3144bfc220271455b3bdd8f81b"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "President Joe Biden said the US and its Western allies had \"nothing to do\" with Saturday's events in Russia, where Wagner boss Yevgeny Prigozhin allegedly incited an armed rebellion against the Kremlin. In his first public comments since the weekend's event, Biden also said he directed the national security team to monitor the developments in Russia closely and report to him \"hour by hour\" and prepare for a range of scenarios. He said he also spoke to the United States' key allies over the weekend to \"make sure we are all on the same page.\" \"It's critical that we are in a\u00a0coordinated in our response and\u00a0coordinated in what we are to\u00a0anticipate,\" he said, adding that all parties agreed\u00a0that \"we had to make sure we gave\u00a0Putin no excuse to blame this on the\u00a0West or to blame this on NATO.\" The US president also said he spoke \"in length\" with Ukrainian\u00a0President Volodymyr\u00a0Zelensky and agreed to stay in contact with him.  \"I told them that no matter what\u00a0happened in Russia \u2014 let me say\u00a0this again \u2014 no matter what\u00a0happened in Russia, we, the United\u00a0States, will continue to support\u00a0Ukraine's defense and its\u00a0sovereignty and its territorial\u00a0integrity,\" he said.  Biden conferred with top national security aides Monday on Russia: The White House said later Monday that Biden spoke with top national security aides this morning \u201cto discuss the developments and impacts that instability in Russia could have.\"  Biden, National Security adviser Jake Sullivan, Secretary of State Antony Blinken and Secretary of Defense Lloyd Austin held a series of calls through the weekend and today with a number of their international counterparts, John Kirby, National Security Council coordinator for strategic communications, said.  The White House declined to speculate on the future of the Wagner group following this weekend\u2019s events in Russia. CNN's DJ Judd and Betsy Klein contributed reporting to this post.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/e85e8161-ae8d-4fe8-b261-f5ac76f9c50d.JPG"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Prigozhin claims Russian defense ministry wanted Wagner to \"cease to exist\" starting on July 1",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_42c397617dc318787f1e38a55fdd5c8b",
+            "dateModified": "2023-06-26T15:46:14.754Z",
+            "datePublished": "2023-06-26T15:40:51.207Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_42c397617dc318787f1e38a55fdd5c8b"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "The Russian Defense Ministry had planned for Wagner private military group to \"cease to exist\" starting on July 1, the group's founder Yevgeny Prigozhin claimed Monday in an audio message. \"No one agreed to sign a contract with the Defense Ministry, since everyone knows very well from the current situation and their experience during the special military operation that this will lead to a complete loss of combat capability,\"\u00a0Prigozhin said in the audio message.\u00a0 But then he proceeded to say that some fighters did sign contracts with the Ministry of Defense, but claimed that it was only a minimal number. \"Those fighters who decided that they were ready to move to the Ministry of Defense did so. But this is the minimum number, estimated at 1-2%. All the arguments to keep PMC Wagner were presented, but none were implemented,\" he said.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/6a49ef67-f564-4205-aa04-94942ec3da9b.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Prigozhin says march toward Moscow was a demonstration of protest and not intended to overturn power",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_f3fe0563b311fc748d807da3878c923e",
+            "dateModified": "2023-06-26T18:57:07.879Z",
+            "datePublished": "2023-06-26T15:06:10.430Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_f3fe0563b311fc748d807da3878c923e"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Wagner boss Yevgeny Prigozhin released new audio Monday explaining his decision to turn around his march on Moscow. Prigozhin said he wanted to avoid Russian bloodshed and also said the march was a demonstration of protest and not intended to overturn power in the country.\u00a0 This is\u00a0Prigozhin's first audio message since announcing on Saturday night that his column was turning back \"to avoid bloodshed.\" \"Overnight, we have walked 780 kilometers (about 484 miles). Two hundred-something kilometers\u00a0(about 125 miles)\u00a0were left to Moscow,\" Prigozhin claimed in the latest audio message, despite no evidence the Wagner forces made it that close to the Russian capital.\u00a0\u201cNot a single soldier on the ground was killed.\" \u201cWe regret that we were forced to strike on aircraft,\" he said. \"...but these aircraft dropped bombs and launched missile strikes.\" The Wagner boss also claimed in the audio message that about 30 of his fighters died in the Russian military's attack on the mercenary group on Friday.\u00a0Prigozhin said the attack came days before Wagner was due to leave its positions on June 30 to hand over equipment to\u00a0the Southern Military District in Rostov, Russia.\u00a0 The purpose of his forces' march toward Moscow, the Wagner boss said, was to prevent the \"destruction\" of the private military company, and \"to bring to justice those who, through their unprofessional actions, made a huge number of mistakes during the special military operation.\" Prigozhin said the march stopped when the detachment \"made a reconnaissance of the area, and it was obvious that at that moment a lot of blood would be shed. We felt that demonstrating what we were going to do was sufficient.\" \"At this time, Alexander Lukashenko extended his hand and offered to find solutions for the further work of Wagner PMC in legal jurisdiction,\"\u00a0he added.\u00a0 More background: Prigozhin had agreed to leave Russia for Belarus on Saturday following a deal apparently brokered by Belarusian President Alexander Lukashenko which ended the armed rebellion. According to Russian Foreign Minister Sergey Lavrov, Lukashenko had suggested the deal to Russian President Vladimir Putin to help resolve the brief mutiny, during a telephone conversation on Saturday morning in order to \"avoid the great bloodshed that would inevitably occur if the rebel detachments continued to move toward Moscow. This proposal was supported by President Putin.\"",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/67b80bb8-0b13-4447-a4ae-51b16185e169.JPG"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "US diplomats were busy sending messages to Russian officials over the weekend",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_d4ceab2b4f348ccb5b8144d20af2efa2",
+            "dateModified": "2023-06-26T15:40:09.557Z",
+            "datePublished": "2023-06-26T15:40:09.557Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_d4ceab2b4f348ccb5b8144d20af2efa2"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "As\u00a0Wagner chief\u00a0Yevgeny Prigozhin\u2019s insurrection attempt played out over the weekend, US officials were publicly quiet, wary that any comments they made could be perceived by Russian President Vladimir Putin as the US escalating the crisis. But US diplomats were busy sending messages to Russian officials. Diplomats, including the US ambassador to Russia Lynne Tracy, conveyed two main messages: the US expects Russia to uphold their obligation to ensure safety and security of the US embassy and personnel, and the US was \u201cnot involved in this matter and would not involve ourselves,\u201d a senior State Department official explained.\u00a0 Another message that was sent to Russian officials from US officials included a push for Russia not to use its nuclear arsenal, another US official explained. Russian Foreign Minister Lavrov\u00a0described these messages on Monday. \u201cWhen US Ambassador [Lynne] Tracy spoke with Russian representatives yesterday, she gave signals. These signals were primarily that the United States had nothing to do with it, that the United States very much hopes that nuclear weapons will be in order, that American diplomats will not suffer,\u201d Lavrov said speaking on a state-controlled broadcaster. US Secretary of State Antony Blinken gave the orders to send these messages.",
+            "image": "https://cdn.cnn.com/cnnnext/dam/assets/230625112553-prigozhin-putin-split-super-tease.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "US was not involved in rebellion in Russia, White House says",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_e86f4ca1fef7b0a7a74182bc08c0fee2",
+            "dateModified": "2023-06-26T15:25:35.481Z",
+            "datePublished": "2023-06-26T15:20:25.297Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_e86f4ca1fef7b0a7a74182bc08c0fee2"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "The White House said the US was not involved in the rebellion in Russia after Russian Foreign Minister Sergey Lavrov said the country's special services are investigating whether Western intelligence services were engaged in the events that unfolded this weekend. Earlier Monday, Lavrov told Russia Today that while his department was not involved in evidence gathering of illegal activities,\u00a0Russian services were looking at possible foreign intervention.\u00a0 He was asked: \u201cDo you have proof that neither Ukraine nor the West was involved in the mutiny?\u201d Lavrov answered: \u201cI\u2019m working in a department that is not engaged in gathering evidence of committed illegal actions. But we have such services and I assure you, they are already looking into that.\u201d He also said the US ambassador to Russia signaled the US had \u201cnothing to do\u201d with events this weekend. CNN's Anna Chernova contributed reporting to this post.",
+            "image": "https://cdn.cnn.com/cnnnext/dam/assets/230625112553-prigozhin-putin-split-super-tease.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Wagner recruitment centers resume work in Russian cities of Tyumen and Novosibirsk, state media reports",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_58463395533ad3b6f939995928bc47a3",
+            "dateModified": "2023-06-26T14:32:17.075Z",
+            "datePublished": "2023-06-26T14:32:17.075Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_58463395533ad3b6f939995928bc47a3"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Wagner Group recruitment centers in the Russian cities of Tyumen and Novosibirsk have resumed recruiting fighters, according to Russian state media on Monday, following temporary closures over the weekend due to the armed Wagner Group rebellion. \"The recruitment center for PMC 'Wagner' fighters in Tyumen has resumed its work as normal,\" an employee of the center told TASS.\u00a0 The Wagner recruitment center in Novosibirsk, in southern Siberia, also resumed work on Monday, according to state media.\u00a0 \"A TASS correspondent reports that advertising posters have been hung back up again at the entrance to the center located in the center of Novosibirsk. On Saturday, the banners were removed, the center stopped working,\" TASS reported.\u00a0 The Wagner Group center in St. Petersburg also told CNN on Monday that the center \"continues to operate as usual in accordance with the legislation of the Russian Federation.\"",
+            "image": "https://cdn.cnn.com/cnnnext/dam/assets/230625112553-prigozhin-putin-split-super-tease.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Analysis: The insurrection was stymied, but Russia is a changed place",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_40d0fad3adb7c9247bd7215da0ef6d2f",
+            "dateModified": "2023-06-26T14:05:31.616Z",
+            "datePublished": "2023-06-26T10:06:56.459Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_40d0fad3adb7c9247bd7215da0ef6d2f"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "The weekend\u2019s events in Russia seem an almost surreal interruption to the long slog of conflict unfolding in neighboring Ukraine. Yevgeny Prigozhin\u2019s challenge to the Russian state erupted and receded in the space of 24 hours, but the consequences of his short-lived mutiny may reverberate for much longer. The brief drama forced a visibly angry President Vladimir Putin to address the nation early on Saturday and threaten Prigozhin with dire consequences, even raising the specter of civil war in the process. The much-prized sense of national purpose in an existential struggle against what Moscow falsely claims are Ukrainian neo-Nazis that were creatures of the West was punctured by what was at times a day of melodrama. Some moments, such as the hasty erection of roadblocks on Moscow\u2019s southern outskirts and the mobilization of Chechen special forces to move on Rostov, were reminiscent of the 1991 attempted coup by Soviet hardliners against Mikhail Gorbachev \u2013 not in a political sense but for the haphazard and inchoate nature of events. This was not lost on Kyiv, with an adviser to the head of the Ukrainian president\u2019s office, Mikhailo Podolyak, saying that \u201cat the end of the day, everything goes back to normal, (Prigozhin) is not a traitor, he is a hero of Russia, and so on. It\u2019s a failed state.\u201d Russian state media has gone to great lengths to show how Putin was in control throughout. \u201cThe whole night the president has been in touch with all law enforcement structures,\u201d said Pavel Zarubin, a state TV reporter on Sunday. Read the full analysis here.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/71dfbf65-902e-4078-9e40-9d66ca1ae09f.jpeg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Russia is investigating whether Western intelligence was involved in rebellion, foreign minister says",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_1cfd6f14b0a24144cc04e65414100338",
+            "dateModified": "2023-06-26T13:38:43.666Z",
+            "datePublished": "2023-06-26T13:09:02.919Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_1cfd6f14b0a24144cc04e65414100338"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Russian special services are investigating whether Western intelligence services were involved in the events which unfolded in Russia Saturday, Russian Foreign Minister Sergey Lavrov said in video comments to Russia Today.\u00a0 Russia often alleges foreign interference in domestic ongoings. Lavrov did not immediately present evidence or further information of that alleged investigation. However, he noted that the US ambassador to Russia signaled that the US had \"nothing to do\" with the events. \"And it was especially emphasized: the United States proceeds from the fact that everything that happens is an internal affair of the Russian Federation,\" he added in a video that was seemingly taped Sunday and released on state-controlled broadcaster Russia Today Monday. This comes after Wagner founder Yevgeny Prigozhin allegedly incited an armed rebellion, but then stood down and accepted a deal to leave Russia for Belarus, according to the Kremlin.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/9513f512-4e9d-4115-bb1f-551079ce9ecd.jpeg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "It\u2019s mid-afternoon in Kyiv. Here\u2019s what you need to know",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_5bc1549425a311fc8a3ccf74d2da7985",
+            "dateModified": "2023-06-26T12:57:01.459Z",
+            "datePublished": "2023-06-26T12:57:01.459Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_5bc1549425a311fc8a3ccf74d2da7985"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "As the dust settles after a bizarre and chaotic weekend in Russia \u2013 which saw the greatest challenge to Russian President Vladimir Putin\u2019s authority in decades \u2013 there remains more questions than answers. Here are the latest developments: Mutiny: Wagner chief Yevgeny Prigozhin was last seen Saturday evening leaving Rostov-on-Don after calling off the attempted insurrection. A deal was apparently struck with Belarusian President Alexander Lukashenko which would allow Prigozhin to live in Belarus and not face criminal charges in Russia. While a Kremlin spokesperson said criminal charges against Prigozhin have been dropped, state media TASS said that the case against him is still active, citing a source close to the Prosecutor General\u2019s Office.\nBelarus reception: Prigozhin won\u2019t be welcomed by the Belarusian people if he is exiled to the country, according to Franak Viacorka, a senior adviser to exiled Belarus opposition leader\u00a0Sviatlana Tsikhanouskaya. \u201cHe doesn\u2019t see [Belarus] as an independent nation, so I think the Belarusian army and Belarusian society will not accept him,\u201d Viacorka told CNN.\nMoscow lifts restrictions: All security restrictions imposed in the Russian capital following the insurrection have ended, Moscow\u2019s mayor said Monday. A CNN team observed Red Square blocked off on Sunday, a day after Prigozhin called off his short-lived mutiny. The mayor thanked Muscovites on Monday for their \u201ccalm and understanding\u201d over the weekend.\nInternal stability: Russia faced a \u201cchallenge\u201d to its internal stability, according to Russian Prime Minister Mikhail Mishustin, who acknowledged Prigozhin\u2019s armed mutiny during his address to cabinet ministers on Monday. EU foreign policy chief Josep Borrell also said Monday that the insurrection showed that military power in Russia is \u201ccracking,\u201d and that the instability was \u201caffecting [Russia\u2019s] political system.\u201d\n\"Big\" mistake: This weekend's events demonstrate that Putin made a \u201cbig strategic mistake\u201d by launching a full-scale invasion of Ukraine, NATO Secretary-General Jens Stoltenberg said Monday. Meanwhile, Germany's foreign minister Annalena Baerbock said Moscow's invasion of Ukraine was having \u201cdevastating consequences\u201d on Russian leadership.\nShoigu visits Ukraine front line: Russian defense minister Sergei Shoigu \u2013 whose removal was one of the explicit aims of Prigozhin\u2019s mutiny \u2013 has reportedly visited Russian troops in Ukraine. According to a statement from the defense ministry, Shoigu traveled to a front line command post of one of the Western group of forces in the special military operation zone. However, neither the ministry nor state media said when the visit took place.\nEU support: European Union member states pledged a further $3.8 billion in support for Ukraine as part of the European Peace Facility, as Ukraine\u2019s foreign minister called on the bloc to \u201caccelerate\u201d Russia\u2019s defeat. The fund has been used by EU nations to finance military aid for Ukraine.\n\u201cTactical success\u201d: Ukrainian forces have been engaged in heavy fighting over the past week and have enjoyed \u201ctactical success,\u201d according to deputy defense minister Hanna Maliar. The Ukrainian army has continued offensive operations near Melitopol and Berdiansk in the south, and around Lyman and Bakhmut in the east, Maliar said.\nKherson hit by heavy shelling: One person was killed and seven others including a pregnant woman were injured after Kherson\u00a0was hit by heavy shelling Monday, a Ukrainian military official said. Meanwhile, Ukrainian forces said Monday they had intercepted 13 air targets overnight, including two Kalibr cruise missiles, seven Shahed attack drones and four unmanned aerial vehicles.",
+            "image": "https://cdn.cnn.com/cnnnext/dam/assets/230625112553-prigozhin-putin-split-super-tease.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Wagner developments show \"weakness\" of Russian regime, NATO chief says",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_9cfe29f2594fd112eeeea2d25d544045",
+            "dateModified": "2023-06-26T13:12:33.424Z",
+            "datePublished": "2023-06-26T13:09:08.165Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_9cfe29f2594fd112eeeea2d25d544045"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "The developments in Russia over the weekend show the \"weakness\" and \"fragility\" of the Russian regime,\u00a0NATO\u00a0Secretary-General Jens Stoltenberg\u00a0said Monday.\u00a0 Wagner boss Yevgeny Prigozhin's armed insurrection \"demonstrated how difficult and dangerous it is for President [Vladimir] Putin to be relying on mercenaries that have actually turned against him,\" Stoltenberg said.\u00a0 Stoltenberg went on to say that it is unclear what will happen in Russia over the next days and weeks. He added that NATO allies should not make the mistake of \"underestimating\" Moscow. \"So we need to continue to provide support to Ukraine, that's exactly what NATO and NATO allies are doing with military support but also support for the long term. And that's in a way what we can say today about the effects on the battlefield in Ukraine,\" he said during a news conference in Lithuania, alongside\u00a0German Defense Minister Boris Pistorius and\u00a0Lithuania's President Gitanas Nauseda.\u00a0 What we know:  Prigozhin on Friday accused Russia\u2019s military of attacking a Wagner camp and killing a \u201chuge amount\u201d of his men. He vowed to retaliate with force, insinuating that his forces would \u201cdestroy\u201d any resistance, including roadblocks and aircraft.  By Saturday, Prigozhin announced that he was turning his forces around from a march toward Moscow shortly after the Belarusian government claimed President Alexander Lukashenko had reached a deal with him to halt the advance. Prigozhin said the move was in accordance with an unspecified plan and intended to avoid Russian bloodshed. Belarusian officials\u00a0said they cannot confirm if Prigozhin has arrived in the country or what his status will be.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/4b3101ff-2868-4dab-b155-0a54e79f9a91.jpeg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Ukraine claims to have liberated the southeastern settlement of Rivnopil in Donetsk",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_a8c8f39dcb864c13fec8d265a2584155",
+            "dateModified": "2023-06-26T12:47:43.814Z",
+            "datePublished": "2023-06-26T12:47:43.814Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_a8c8f39dcb864c13fec8d265a2584155"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Ukraine has regained control of Rivnopil, a southeastern settlement in the Donetsk region on the Zaporizhzhia border, Ukraine's deputy defense minister claimed.  CNN cannot independently verify this claim. In a video posted online Monday by the Joint Press Center of the Tavria Defense Forces, a Ukrainian soldier said, \"soldiers of the 2nd Mechanised Battalion of the 31st Mechanized Brigade liberated the village of Rivnopil. The orcs are fleeing, we are moving forward. Glory to Ukraine!\" On Thursday, Andriy Kovalov, spokesperson for the General Staff of the Armed Forces of Ukraine, said Ukrainian forces were partially successful in the Rivnopil-Staromaiorske direction and were \"entrenching on the achieved frontiers.\"",
+            "image": "https://cdn.cnn.com/cnnnext/dam/assets/230625112553-prigozhin-putin-split-super-tease.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Putin talked to leaders of a few countries after the Wagner insurrection, including Iran",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_404a4d6074bec0dfc5cf6622dc98c083",
+            "dateModified": "2023-06-26T12:04:53.261Z",
+            "datePublished": "2023-06-26T12:04:08.363Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_404a4d6074bec0dfc5cf6622dc98c083"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Russian President Vladimir Putin had a phone call with Iranian President Ebrahim Raisi, the Kremlin said Monday. \u201cThe President of Iran expressed full support for the Russian leadership in connection with the events of June 24,\u201d a Kremlin readout read. It was one of a few known phone calls the Russian President had with foreign leaders following the weekend, which saw a brief insurrection by Wagner troops.\u00a0 Iran's official news agency IRNA confirmed the two leaders \"had a telephone conversation after the failed rebellion of the 'Wagner' militant group.\"",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/e2e4c2f6-0413-4a45-99b3-ceb5e638e1fa.jpeg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "UK is prepared for a \"range of scenarios\" in Russia after insurrection, prime minister says",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_4dc021ebf28061f8aba0377aca073027",
+            "dateModified": "2023-06-26T11:57:59.329Z",
+            "datePublished": "2023-06-26T11:53:54.926Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_4dc021ebf28061f8aba0377aca073027"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "The United Kingdom is prepared for a \"range of scenarios\" in Russia following the insurrection attempted by Wagner boss Yevgeny Prigozhin over the weekend, UK Prime Minister Rishi Sunak said Monday. Sunak noted the UK has been \"analyzing and monitoring\" the situation for some time and is in close touch with allies \"to make sure that we're coordinated.\" The prime minister also said he spoke with the leaders of the United States, France and Germany over the weekend. \"It's too early to predict with certainty what the consequences of this might be, but of course, we are prepared, as we always would be, for a range of scenarios,\" he told reporters during a visit to Nottingham.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/774a095a-e876-4065-b877-9642004345d5.jpeg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Russian President Putin holds a phone call with the Emir of Qatar Sheikh Tamim",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_274f1fcb8e1e7e59e8ca698bf5ac20c0",
+            "dateModified": "2023-06-26T12:44:33.393Z",
+            "datePublished": "2023-06-26T11:35:23.410Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_274f1fcb8e1e7e59e8ca698bf5ac20c0"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Russian President Vladimir Putin and Emir of Qatar, Sheikh Tamim bin Hamad Al Thani, held a phone call on Monday, statements said.\u00a0 However, the countries had different readouts for the call. The Kremlin said that Sheikh Tamim expressed his support for Putin\u2019s actions in dealing with the attempted armed mutiny that took place on Saturday. But the Qatari statement by the Diwan said the Emir \"discussed the latest developments in Russia\" and called for resolving differences through \"dialogue and diplomatic means, settling international disputes by peaceful means\" and discouraging \"further escalation on the ground.\" Sheikh Tamim \"also renewed the position of the State of Qatar calling for the need to respect Ukraine's sovereignty and territorial integrity within its internationally recognized borders,\" the statement added.\u00a0 Both leaders agreed to maintain contact in the future.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/48c11f68-ff5d-4ae3-a34d-a1fa654a16a3.jpeg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Some Russians cheered as Wagner mercenaries sped through their streets towards Moscow",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_45018cc29859c00185777b765a7692ff",
+            "dateModified": "2023-06-26T11:55:28.939Z",
+            "datePublished": "2023-06-26T11:13:29.978Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_45018cc29859c00185777b765a7692ff"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Some Russians greeted the weekend\u2019s armed insurrection led by the head of the Wagner paramilitary group, Yevgeny Prigozhin, with sympathy, appearing to welcome the mercenary fighters. In the southern Russian city Rostov-on-Don, which was briefly occupied by Wagner troops, videos showed residents cheering them on, taking pictures with fighters, and flagging down Prigozhin\u2019s car just to shake his hand. Prigozhin\u2019s so-called \u201cmarch of justice\u201d \u2013 which stopped short of capital city Moscow \u2013 was harshly condemned by the Kremlin on Saturday, with a furious President Vladimir Putin vowing to punish those \u201con a path to treason.\u201d But at least one Rostov-on-Don resident seemed curious why they did not go further. \u201cWhat kind of demands are you making to the authorities? Why are you not doing it in Moscow? Why did you not go to Moscow?\u201d the resident asks in another social media video. Read the full story here.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/efac9f40-9460-43ff-ae64-2e54b1fa8f1c.jpeg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Russia faced \"challenge\" to internal stability, says Russian prime minister",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_64ed45bc0106b974307614b8b465c6c8",
+            "dateModified": "2023-06-26T11:05:24.301Z",
+            "datePublished": "2023-06-26T11:05:24.301Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_64ed45bc0106b974307614b8b465c6c8"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Russian Prime Minister Mikhail Mishustin acknowledged Monday that the country faced a \u201cchallenge\u201d to its internal stability, in his first address to the cabinet of ministers in the wake of the brief armed mutiny by Wagner boss Yevgeny Prigozhin and his mercenaries on Saturday. Mishustin added that government members were \u201cat their workplaces\u201d and commended the government members for their response to the threat. \u201cUnder the leadership of the president, they acted clearly, in a coordinated manner, and maintained the stability of the situation at all levels in order to prevent the situation from worsening and protect citizens from all possible threats that might arise,\u201d he said. \u201cWe need to act together, as one team, and maintain the unity of all forces, rallying around the president. Make well-considered joint decisions for the effective implementation of the tasks set by the head of state,\u201d he added. Mishustin described current events as Russia experiencing a crucial period in its history facing significant challenges from Western countries, which are aimed at undermining Russia's ability to pursue its \u201cown path.\u201d",
+            "image": "https://cdn.cnn.com/cnnnext/dam/assets/230625112553-prigozhin-putin-split-super-tease.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "EU agrees to $3.8 billion top up of Ukraine military aid fund",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_48370c93f7eddfce6523553170440467",
+            "dateModified": "2023-06-26T10:59:18.739Z",
+            "datePublished": "2023-06-26T10:59:18.739Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_48370c93f7eddfce6523553170440467"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "European Union member states agreed on Monday to a $3.8 billion (\u20ac3.5 billion) top up to the European Peace Facility, as Ukraine\u2019s foreign minister called on the bloc to \u201caccelerate\u201d Russia\u2019s defeat. The fund has been used by EU member states to finance military aid for Ukraine. It comes after Ukraine\u2019s foreign minister Dmytro Kuleba called on EU foreign ministers attending the Foreign Affairs Council on Monday to \u201caccelerate Russia\u2019s defeat by stepping up support for Ukraine.\u201d Key context: The further support committed by the EU for Ukraine follows the bloc\u2019s announcement last week of the 11th round of sanctions against Russia. \u201cThe package includes measures aimed at countering sanctions circumvention and individual listings,\u201d the Swedish Presidency of the EU Council said Wednesday. President of the EU Commission Ursula von der Leyen welcomed the sanctions package, saying \"it will deal a further blow to Putin\u2019s war machine with tightened export restrictions, targeting entities supporting the Kremlin.\" \"Our anti-circumvention tool will prevent Russia from getting its hands on sanctioned goods,\" she tweeted.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/03dde6e8-46d6-408e-8160-003411f8c338.jpeg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Analysis: Has the chaos in Russia changed the Western approach to Ukraine?",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_e90ea714a02930c7bdfca9aad15e909f",
+            "dateModified": "2023-06-26T11:48:06.613Z",
+            "datePublished": "2023-06-26T10:34:41.822Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_e90ea714a02930c7bdfca9aad15e909f"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "In short: No. Western officials told CNN over the weekend that while they were monitoring the situation and understood the severity of the challenge to Russian President Vladimir Putin\u2019s authority, it did not fundamentally change the objectives of Ukraine\u2019s Western allies. There are, of course, many unanswered questions as to exactly what happened and where it leaves Putin. But for the West \u2013 especially the NATO allies \u2013 the facts and assumptions that drive their Ukraine strategy have not changed. First, Putin is still in power and still has objectives that are unpalatable to the Ukrainian government, which means that they are unpalatable to the Western allies of Ukraine. There is no assumption that a chastened Putin will suddenly become a partner that can be trusted to negotiate peace. There is no sense that Putin\u2019s attitude to the West will soften. There is no belief that even if Putin had a sudden change of heart that he wouldn\u2019t continue to act as a belligerent as soon as an opportunity presented itself. Second, even if the insurrection had led to some kind of change at the top of Russia\u2019s government, the people who toppled Putin would have been equally committed Russian nationalists who have been willing to commit war crimes in this war. At the time of writing, no major Western sources are presenting evidence that Russia\u2019s hectic weekend has presented weaknesses that Ukraine can specifically exploit in its counteroffensive against Russia. Sources specifically highlighted that even if events in Russia do create opportunities, Ukrainian forces will still face deeply-bedded Russian resistance.\u00a0And there is concern that a wounded Putin may strike back even harder. That could all change in the coming hours if such evidence comes to light. But it\u2019s always worth keeping in mind that diplomacy and international relations tend to move at a slower pace than breaking news.",
+            "image": "https://cdn.cnn.com/cnnnext/dam/assets/230625112553-prigozhin-putin-split-super-tease.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Ukrainian army enjoyed \"tactical success\" in heavy fighting over the last week, says deputy defense minister",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_43d4d727f6ca2a488479e8de6b4e073c",
+            "dateModified": "2023-06-26T10:36:55.765Z",
+            "datePublished": "2023-06-26T10:22:56.958Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_43d4d727f6ca2a488479e8de6b4e073c"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Ukrainian forces have been engaged in heavy fighting over the last week \u201cwith tactical success,\u201d the deputy defense minister has said. The much-discussed start of the Ukrainian counteroffensive is now underway, and deputy defense minister Hanna Maliar says Ukrainian forces have carried out defensive and offensive operations in the east of the country. Meanwhile, the situation in the southern part of Ukraine has not changed significantly over the past week, according to Maliar. Ukrainian forces were pushing offensive operations near Melitopol and Berdiansk. In the east, heavy fighting has continued around Lyman, Bakhmut and areas in the Donetsk region, she said. Ukrainian troops made slight advances north, south and west of the embattled city of Bakhmut, according to Maliar.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/1fca95c3-3611-4a0b-acf4-f2c44765d655.jpeg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Russia's war on Ukraine having \u201cdevastating consequences\u201d on leadership, says German foreign minister",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_8ac5690c6922ee19a66a124b324f42b6",
+            "dateModified": "2023-06-26T09:56:13.488Z",
+            "datePublished": "2023-06-26T09:44:46.601Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_8ac5690c6922ee19a66a124b324f42b6"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Russia's invasion of Ukraine is having \u201cdevastating consequences\u201d on Russian leadership, Germany's foreign minister Annalena Baerbock said as she arrived at a European Union meeting in Luxembourg Monday. \u201cWe are seeing massive cracks in Russia's propaganda,\" Baerbock said, adding that Berlin is closely watching events in Russia. She said an \u201cinternal power struggle\" is going on in Russia and that Germany is \u201cnot getting involved.\" The power struggle between Russian President Vladimir Putin and Yevgeny Prigozhin, chief of the Wagner private military group, was \u201cjust one act in this Russian spectacle,\" Baerbock said, adding that it remained \u201cunclear what is happening with the different actors in Russia.\"",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/8b90e396-5a3b-41cf-ae2a-f5aba65289ce.jpeg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Prigozhin remains under investigation for inciting armed rebellion, says source at Russia\u2019s Prosecutor General\u2019s Office",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_6ce99c171c7c349ca0cdf9e985dc41a6",
+            "dateModified": "2023-06-26T09:21:04.177Z",
+            "datePublished": "2023-06-26T09:21:04.177Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_6ce99c171c7c349ca0cdf9e985dc41a6"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "The investigation into the criminal case involving Yevgeny Prigozhin and his alleged involvement in organizing an armed mutiny is still active, Russian state news agency TASS said Monday, citing a source close to the Prosecutor General's Office. On Saturday, Kremlin spokesman Dmitry Peskov told journalists a deal had been reached with Prigozhin and the charges against him for calling for \u201can armed rebellion\u201d would be dropped, without providing a time frame. Belarusian President Alexander Lukashenko also claimed Saturday that the criminal case against Prigozhin would be dropped. With Prigozhin\u2019s Wagner forces just hours away from reaching Moscow, Lukashenko said he had brokered a deal with Prigozhin, allowing him to  go to Belarus and not face charges. However, neither Prigozhin nor his press service have confirmed a deal. Prigozhin has not been seen in public since his departure from Rostov-on-Don Saturday night.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/62564f54-0d57-4616-8508-9dce0e826308.jpeg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Attempted insurrection demonstrates Putin made \u201cbig strategic mistake,\u201d says NATO chief",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_6b35dced5d41506dc26b09ab6d305923",
+            "dateModified": "2023-06-26T09:09:55.747Z",
+            "datePublished": "2023-06-26T09:09:55.747Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_6b35dced5d41506dc26b09ab6d305923"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "The events that unfolded in Russia over the weekend demonstrate that President Vladimir Putin made a \u201cbig strategic mistake\u201d by launching a full-scale invasion of Ukraine, NATO Secretary-General Jens Stoltenberg said Monday during a visit to Lithuania\u2019s capital Vilnius. \"As Russia continues its assault, it is even more important to continue our support to Ukraine,\" Stoltenberg said.\u00a0 Stoltenberg added that \u201conce the war ends, we must put arrangements in place for Ukraine's security so that history does not repeat itself.\u201d Stoltenberg said allies are monitoring the situation in Belarus. \"We condemn Russia's announcement about deploying nuclear weapons. This is reckless and irresponsible. We don't see an indication that Russia is preparing to use nuclear weapons, but NATO remains vigilant,\" he said.\u00a0 \"If Russia thinks it can intimidate us from supporting Ukraine, it will fail. We stand with Ukraine for as long as it takes,\" he added. Some background: Belarus is playing an increasingly prominent role during Russia's invasion of Ukraine, with President Alexander Lukashenko providing support to his Russian counterpart. After weeks of speculation, Putin confirmed earlier this month that he has tactical weapons on standby in Belarus \u2014 causing alarm among many in the West. Belarus may also have come to Russia's aid on Saturday during an armed insurrection, apparently brokering a deal with Wagner chief Yevgeny Prigozhin. Lukashenko claimed \"the criminal case will be dropped\" against Prigozhin and that he \"will go to Belarus.\"",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/1d7a7820-4cdc-49d5-b1e8-c5b9e78fac29.jpeg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Wagner insurrection shows military power in Russia is \u201ccracking,\u201d says EU\u2019s foreign policy chief",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_c3248d72e41c9b2efc4eb91bd61b1b55",
+            "dateModified": "2023-06-26T08:49:13.877Z",
+            "datePublished": "2023-06-26T08:49:13.877Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_c3248d72e41c9b2efc4eb91bd61b1b55"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "The armed rebellion attempted by the Wagner Group at the weekend shows military power in Russia is \u201ccracking,\u201d according to European Union foreign affairs chief, Josep Borrell. Speaking to journalists on his way into a Foreign Affairs Council meeting in Luxembourg on Monday, the EU\u2019s high representative for foreign affairs and security policy said the bloc is \u201cclosely following\u201d developments in Russia. He said recent events show Russia\u2019s military power \u201cis cracking,\u201d adding that the instability is also \u201caffecting [Russia\u2019s] political system.\u201d The foreign affairs chief warned that it is \u201cnot a good thing\u201d when a \u201cnuclear power\u201d such as Russia encounters \u201cpolitical instability,\u201d calling the nuclear threat \u201csomething that has to be taken into account.\u201d Key context: Russian President Vladimir Putin faced the gravest threat to his authority in decades at the weekend when Wagner forces marched toward Moscow. Wagner boss Yevgeny Prigozhin later turned his troops around and agreed to leave Russia for Belarus, the Kremlin said, in a deal apparently brokered by Belarusian President Alexander Lukashenko. Belarusian officials\u00a0said they cannot confirm if Prigozhin \u2014\u00a0whose whereabouts are currently unknown \u2014 has arrived in the country or what his status will be.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/93ec1a67-b11e-43ef-b01e-97b59c0eadc5.jpeg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Serbian president praises Putin after attempted insurrection",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_80c7a2eb6d04ca1fcfb590ffdf15b042",
+            "dateModified": "2023-06-26T08:36:58.049Z",
+            "datePublished": "2023-06-26T08:34:12.879Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_80c7a2eb6d04ca1fcfb590ffdf15b042"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Serbian President Aleksandar Vucic has praised Russian President Vladimir Putin's \"strong stance\" in bringing an end to the brief insurrection led by Wagner chief Yevgeny Prigozhin. While acknowledging that Belarusian President Alexander Lukashenko contributed, the Serbian president said in an interview on Pink television, a private Serbian network, that Putin was the one \"who got it done\" and described the Russian president's actions as \"sharp and decisive.\" Vucic also criticized the Wagner group's actions as \"a stab in the back\" to their own country and said a mistake had been made in Russia giving the group \"enormous power.\" \"They thought they could get away with it. They believed that Putin would not interfere, and [Putin] personally with his statement and his strong stance, stopped it,\"\u00a0Vucic said. \"Putin now has a very difficult task, and that's to raise the motivation of the army, and the confidence of the huge number of disillusioned Wagner soldiers. And none of that will be easy,\" Vucic added. Key context: A major crisis shook the foundations of the Russian state Saturday, as forces loyal to Wagner mercenary boss Prigozhin\u00a0marched toward Moscow. Then, Prigozhin abruptly called off their advance. According to the Belarusian presidential press service, the decision followed an unexpected intervention by Lukashenko. The supposed deal struck with Prigozhin would see the Wagner boss leave for Belarus; a criminal case against the mercenary boss would be dropped; and Wagner fighters would be folded into formal military structures by signing contracts with the Russian ministry of defense. Prigozhin \u2014 whereabouts currently unknown \u2014 has not commented on the supposed agreement.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/5a886676-47c3-444c-bbfa-09e9a9abbea7.jpeg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "\"People don't want Prigozhin in Belarus,\" says adviser to exiled Belarusian opposition leader",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_8d4aaeeb12037dd855af918f53c6e386",
+            "dateModified": "2023-06-26T08:15:53.304Z",
+            "datePublished": "2023-06-26T08:15:53.304Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_8d4aaeeb12037dd855af918f53c6e386"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Wagner chief Yevgeny Prigozhin has agreed to leave Russia for Belarus, the Kremlin said Saturday, in a deal apparently brokered by Belarusian President Alexander Lukashenko that ended a short-lived insurrection. But he won't be welcomed by the Belarusian people, according to Franak Viacorka, senior adviser to exiled Belarus opposition leader Sviatlana Tsikhanouskaya. \"He doesn\u2019t see [Belarus] as an independent nation, so I think the Belarusian army and Belarusian society will not accept him,\" Viacorka told CNN. Prigozhin's current whereabouts are unknown and he is yet to comment on the supposed agreement to send him to Belarus, one of few Russian allies in Moscow's war on Ukraine. Kremlin spokesperson Dmitry Peskov said Saturday that Lukashenko had known Prigozhin personally for about 20 years. \"And it was his personal proposal, which was agreed with President Putin. We are grateful to the President of Belarus for these efforts,\u201d Peskov said.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/be88120a-dc78-4e18-865f-b0f8d9dc3a42.jpeg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "1 killed, pregnant woman among 7 injured in Kherson shelling, Ukrainian military says",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_58d04f6d30bb85c60cd92ecf62799404",
+            "dateModified": "2023-06-26T07:47:17.024Z",
+            "datePublished": "2023-06-26T07:47:17.024Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_58d04f6d30bb85c60cd92ecf62799404"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "One person was killed and seven others including a pregnant woman were injured after Kherson\u00a0was hit by heavy shelling Monday, a Ukrainian military official said. Oleksandr Prokudin, head of the Kherson region military administration, said on Telegram that residential districts of the southern city were among areas hit by 17 shells. Northeast of Kherson, strikes also hit the villages of Antonivka and Burhunka, he added.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/fd00cff8-e495-4f39-af2e-42d24c76c264.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Ukraine says it shot down 13 Russian missiles and drones overnight",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_d3cf8cd66676d478eee7816fa6fae5ec",
+            "dateModified": "2023-06-26T07:09:38.517Z",
+            "datePublished": "2023-06-26T07:09:38.517Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_d3cf8cd66676d478eee7816fa6fae5ec"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "The Ukrainian Air Force said Monday it intercepted 13 air targets overnight, including two Kalibr cruise missiles, seven Shahed attack drones and four unmanned aerial vehicles. No one was injured in the attacks, which damaged windows in two apartment buildings, said Natalia Humeniuk, spokesperson for Ukraine's Southern Command. The air defense efforts were hampered by tough weather conditions, including an \"extremely strong storm at sea and thunderstorms throughout the night,\" she said.",
+            "image": "https://cdn.cnn.com/cnnnext/dam/assets/230625112553-prigozhin-putin-split-super-tease.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Moscow ends security restrictions, mayor says",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_728ba53f6df0750ece7f6876a7a03353",
+            "dateModified": "2023-06-26T07:08:35.773Z",
+            "datePublished": "2023-06-26T07:03:29.374Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_728ba53f6df0750ece7f6876a7a03353"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "All security restrictions imposed in Moscow following Wagner's insurrection have ended, the capital's mayor said Monday.  A CNN team observed Red Square blocked off\u00a0on Sunday, a day after Wagner boss Yevgeny Prigozhin\u00a0called off his\u00a0short-lived mutiny.\u00a0Metal partitions were seen blocking access to the city center and a few security officers were present. As events unfolded over the weekend, authorities declared Monday a non-work day, with the \"exception of authorities and enterprises of a continuous cycle, the military-industrial complex, and city services,\" Sobyanin said earlier.\u00a0 On Monday, the mayor thanked Muscovites for their \u201ccalm and understanding,\" adding that high school graduations will be held on July 1 after many events were cancelled Saturday.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/dd76a76e-dc3f-49f0-8263-cf8f707970b7.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Analysis: Western allies must reexamine balancing act to save Ukraine after Putin's humiliation",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_1e9892bedd4f5595a1d187e13b265239",
+            "dateModified": "2023-06-26T06:16:46.719Z",
+            "datePublished": "2023-06-26T06:16:46.719Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_1e9892bedd4f5595a1d187e13b265239"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "The world\u00a0just got a hint\u00a0of a tantalizing but possibly even more dangerous future without Russian President Vladimir Putin. The Western stakes in the Ukraine war rose significantly as a result. A mutinous weekend\u00a0that saw mercenary chief Yevgeny Prigozhin flagrantly mock the Kremlin before aborting his march on Moscow evoked Russia\u2019s blood-soaked history of revolutions and coups. Meanwhile,\u00a0efforts by the White House\u00a0and its foreign allies to find out exactly what was happening underlined the volatile nature of a war that could rewrite the map of Europe and modern history. Ultimately, a civil war that seemed about to burst out was averted \u2014 at least for now. The Kremlin strongman seemed to blink at a military confrontation with Prigozhin\u2019s Wagner Group fighters \u2014 in an act that might preserve his grip on power. But Prigozhin\u2019s defiance \u2014 and the retreat by Putin, who accused him of treason but then agreed to a deal to let him apparently escape to exile in Belarus hours later \u2014 punched the deepest holes in the Russian president\u2019s authority in a generation in power. There\u2019s now no doubt that the war Putin unleashed to wipe Ukraine off the map poses an existential threat to his political survival. The rest of the world must now deal with the implications. Schisms in Moscow and between the government and Prigozhin\u2019s Wagner Group \u2014 the only Russian fighting force that has enjoyed much recent battlefield success \u2014 might also now conjure an opening for Ukraine, which wants breakthroughs against Moscow\u2019s already demoralized and poorly led troops in its new counteroffensive. This would be good news for the West, which has bankrolled and armed the country\u2019s fight for its life. And there\u2019s no doubt that NATO leaders would love to see Putin gone since there\u2019s no sign he will end the war by pulling his troops out of Ukraine. Read Collinson's full analysis here.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/0726915c-e673-4c12-82ca-490b28f1a2b3.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "\"Who's to say what happens next weekend?\" Analyst says mutiny raises risk of Russian factional conflict",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_de9116fde0b2b928225d0df7381d5163",
+            "dateModified": "2023-06-26T06:00:20.019Z",
+            "datePublished": "2023-06-26T05:57:57.419Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_de9116fde0b2b928225d0df7381d5163"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Wagner's short-lived insurrection raises the risk of factional conflict in Russia and exposes uncertainty in President Vladimir Putin's leadership, a military analyst told CNN. Malcolm Davis, a senior analyst at the Australian Strategic Policy Institute, also said the events of the weekend were \"a recipe for ultimately weakening Russia as a federal state, and potentially internal conflict.\" In a rare announcement Monday, Russia's defense ministry said Defense Minister Sergei Shoigu had visited Russian troops involved in the military operation in Ukraine, without saying when that visit took place. Davis said the impact of the brief mutiny on Russia's war in Ukraine would depend on whether rank and file troops and junior officers lose confidence in both senior military leaders like Shoigu and in Putin himself.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/6a4f976a-132b-447e-ad3f-00f24c4e8128.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Russia says defense minister visited troops involved in Ukraine conflict",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_92d6afd1bf165795b66674c55474f578",
+            "dateModified": "2023-06-26T05:39:54.269Z",
+            "datePublished": "2023-06-26T05:39:54.269Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_92d6afd1bf165795b66674c55474f578"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Russian Defense Minister Sergei Shoigu has visited Russian troops involved in the military operation in Ukraine, the Russian Defense Ministry said Monday.\u00a0 Neither the ministry nor state media said when the visit took place.\u00a0 The announcement of the\u00a0rare visit comes after Wagner mercenary boss\u00a0Yevgeny Prigozhin launched a brief insurrection on Saturday that ended abruptly after a supposed deal was struck that would see him leave for Belarus. On Monday, the defense ministry said Shoigu\u00a0visited a\u00a0frontline command post of one of the western group of troops in the special military operation, the term President Vladimir Putin uses for the war in Ukraine.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/de098d88-c8ee-4f12-a675-9a019fb44a68.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Oil price gains evaporate after short-lived Wagner insurrection",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_94f340ec7898695a5bb98dbf956cb6f6",
+            "dateModified": "2023-06-26T05:10:07.572Z",
+            "datePublished": "2023-06-26T05:10:07.572Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_94f340ec7898695a5bb98dbf956cb6f6"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Gains in oil prices evaporated on Monday after a\u00a0brief and chaotic insurrection\u00a0in Russia, with investors questioning whether the turmoil in Moscow could disrupt global energy supplies. US WTI crude briefly climbed 1.3% during Asian trading hours. But it later gave up those gains, last trading flat. Brent crude, the international benchmark, inched up 0.1%, trimming earlier advances. Both futures lost nearly 4% last week. Russia glimpsed the threat of\u00a0armed insurrection\u00a0over the weekend, with Wagner Group mercenaries marching toward Moscow as President Vladimir Putin vowed retribution, before\u00a0a sudden deal\u00a0seemed to defuse the crisis as quickly as it had emerged. Although the immediate risk of bloodshed appears to have dissipated, much remains uncertain. US Secretary of State Antony Blinken said Sunday that the insurrection\u00a0shows \u201ccracks\u201d\u00a0in Putin\u2019s role as leader of the country. \u201cThe potential risks to watch may be on any renewed opposition from the Russian public to Putin\u2019s leadership,\u201d said Yeap Jun Rong, market analyst at IG Group. All eyes on Russia: Signs that global energy demand could weaken this year as economies slow have pushed US crude prices down by nearly 14% so far this year to just under $70 a barrel. (It peaked above $120 a year ago.) The international benchmark, Brent crude, is down by a similar margin. But anything that could jeopardize Russia\u2019s ability to keep supplying global energy markets will be watched anxiously by policymakers in the West and by the country\u2019s biggest customers in Asia. Read more here.",
+            "image": "https://cdn.cnn.com/cnnnext/dam/assets/230625112553-prigozhin-putin-split-super-tease.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Analysis: Belarus leader's purported mediation stretches credibility to the limit",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_d96026cea432e246b84f7f29688c8171",
+            "dateModified": "2023-06-26T04:55:31.013Z",
+            "datePublished": "2023-06-26T04:55:04.504Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_d96026cea432e246b84f7f29688c8171"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Nearly three years ago, Russian President\u00a0Vladimir Putin\u00a0stood by Belarusian President\u00a0Alexander Lukashenko\u00a0in his hour of need, backing Europe\u2019s longest-running dictator as he faced a wave of street protests. Now Lukashenko appears to have come through for Putin, if we are to believe what the Kremlin and the Belarusian presidential press service tell us. A quick recap: A major crisis shook the foundations of the Russian state Saturday, as forces loyal to Wagner mercenary boss Yevgeny Prigozhin\u00a0marched toward Moscow. Then, an abrupt reversal happened \u2014 Prigozhin called off their advance, claiming his mercenaries had come within 124 miles of the capital but were turning around to avoid spilling Russian blood. According to the Belarusian presidential press service, the decision followed an unexpected intervention by Lukashenko himself. The supposed deal struck with Prigozhin would see the Wagner boss leave for Belarus; a criminal case against the mercenary boss would be dropped; and Wagner fighters would be folded into formal military structures by signing contracts with the Russian ministry of defense. But those, it\u2019s worth emphasizing, are only the bare outlines of the deal. Prigozhin \u2014 whereabouts currently unknown \u2014 has not commented on the supposed agreement. And the Kremlin and Belarusian account of Lukashenko\u2019s mediation appear to stretch credibility. Those efforts, Peskov claimed, \u201cmanaged to resolve this situation without further losses, without increasing the level of tension.\u201d Still, Lukashenko\u2019s apparent intercession raises more questions than it answers. Read more here.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/dbe79659-337c-42ad-8e78-7a06f2bbb819.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Australian High Court rules against Russia's legal challenge to keep embassy site",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_558e95e1ad8999f58db962571d71fff0",
+            "dateModified": "2023-06-26T04:28:41.613Z",
+            "datePublished": "2023-06-26T04:18:38.128Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_558e95e1ad8999f58db962571d71fff0"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Australia\u2019s High Court on Monday threw out an application by Russia for an injunction on its eviction from the site of a planned new embassy near Parliament in Canberra. The now-scrapped site for the proposed Russian embassy sits about 400 meters from Australia\u2019s parliamentary precinct in the capital. The Australian government legislated to stop the build earlier this month, saying it was a national security threat. Prime Minister Anthony Albanese welcomed the court's decision Monday, saying that unlike Russia's government, Australia would always abide by the rule of law. Some context: Australia has sided with Western allies in support of Kyiv since the Russian invasion of Ukraine began more than a year ago. It has condemned Moscow for its \u201cillegal and immoral\u201d military operations. Russia secured the lease to the land from the Australian government in 2008. Three years later, it was granted approval to build its new embassy there. Last week, Albanese said it was \u201ca different time\u201d since the lease was granted in 2008. \u201cWhat my government\u2019s responsible for is now, and my government has responded,\u201d he said.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/30704f80-b5b1-416b-957c-9295e0ee6fcc.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Prigozhin's status is uncertain as Russia aims to regulate his Wagner Group. Here's the latest",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_60f0167292d0431d03f6507f0c41ee89",
+            "dateModified": "2023-06-26T04:02:06.589Z",
+            "datePublished": "2023-06-26T04:02:06.589Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_60f0167292d0431d03f6507f0c41ee89"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Russia's lower house of parliament is\u00a0working on a law to regulate Wagner amid considerable speculation about the mercenary group's future since its chief, Yevgeny Prigozhin,\u00a0launched a rebellion on the weekend. Prigozhin was last seen leaving Rostov-on-Don late on Saturday in a black SUV after the Kremlin said a deal had been brokered by Belarusian President\u00a0Alexander Lukashenko in which\u00a0Prigozhin had agreed to go to Belarus and end his rebellion. Prigozhin himself has not confirmed the deal. Meanwhile, the official Belarus news agency said Sunday that Lukashenko spoke on the phone with Russian President Vladimir Putin again on Sunday morning. Belarusian officials tell CNN\u00a0they have no details\u00a0on what Prigozhin\u2019s status will be in Belarus and could not confirm whether Prigozhin had already arrived in the country. Here are the latest developments: Red Square barriers:\u00a0A CNN team observed Moscow\u2019s\u00a0Red Square blocked off\u00a0on Sunday, a day after Prigozhin\u00a0called off his\u00a0short-lived insurrection.\u00a0Metal partitions were seen blocking access to the city center and a few security officers were present. Pedestrians were walking on the streets next to the square.\u00a0Red Square was also closed off on Saturday.\nUN urges de-escalation:\u00a0UN Secretary-General Ant\u00f3nio Guterres on Sunday urged all parties involved \u201cto act responsibly and with a view to avoid further tensions\u201d\u00a0in a statement released\u00a0in response to\u00a0recent events in Russia.\n\"Cracks\" in Putin's rule:\u00a0\"First of all, what we've seen is extraordinary. And I think you've seen cracks emerge that weren't there before,\u201d US Secretary of State Antony\u00a0Blinken said, citing in part Prigozhin\u00a0questioning the premise of Russia\u2019s war in Ukraine.\u00a0\nInside the White House:\u00a0US President Joe Biden's primary objective following the Wagner insurrection has been\u00a0denying Putin's pretext for accusing the West of wanting him dead. In a phone call with allies, Biden emphasized the imperative of not lending any credibility to expected claims from Putin of Western interference. Biden also\u00a0reaffirmed the US commitment to Ukraine\u00a0in a call with President Volodymyr Zelensky on Sunday, the White House said. They discussed the situation in Russia and Zelensky later tweeted: \u201cThe world must put pressure on Russia until international order is restored.\"\nZelensky consults allies:\u00a0The Ukrainian President said he has discussed the weekend\u2019s events in Russia with several world leaders, including US President Joe Biden, Canadian Prime Minister Justin Trudeau and Polish President Andrzej Duda.\nUS expected \"more bloodshed\":\u00a0As the picture became more clear to US intelligence analysts that\u00a0Prigozhin\u00a0was about to\u00a0mobilize his Wagner troops inside Russia, the expectation was that his march toward Moscow would encounter much more resistance and be\u00a0\u201ca lot more bloody than it was.\u201d\u00a0There was surprise, a US official said, that Russia\u2019s military didn\u2019t do a better job of confronting Wagner troops\u00a0as they moved into Rostov\u00a0and up toward the capital.\nRussian diplomat visits China:\u00a0The Russian Ministry of Foreign Affairs on Sunday issued a readout of a\u00a0meeting in Beijing\u00a0between Russian Deputy Minister of Foreign Affairs Andrey Rudenko and China's top diplomats. According to the statement, the discussion also included the upheaval in Russia during the\u00a0Wagner's open mutiny.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/60cfd86e-7721-42f8-bea9-41e43b46823d.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Beijing throws support behind \"strategic partner\" Moscow after Wagner insurrection",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_9faf1f5a3ece8b4c76732d19b0f81ce4",
+            "dateModified": "2023-06-26T03:53:52.203Z",
+            "datePublished": "2023-06-26T02:31:43.458Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_9faf1f5a3ece8b4c76732d19b0f81ce4"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "China has voiced support for Russia after a\u00a0short-lived insurrection\u00a0posed the gravest challenge to the 23-year rule of Vladimir Putin, a close partner of Chinese leader Xi Jinping in his push for a new world order and strategic alignment against the US. A day after Wagner mercenary fighters turned back from their march toward Moscow, ending a brief and chaotic uprising by warlord Yevgeny Prigozhin, Beijing released its first comment on what Putin had called an \u201carmed rebellion.\u201d Beijing\u2019s carefully crafted public comment came well after the brief mutiny had dissipated, with Prigozhin agreeing on Saturday to\u00a0pull back his fighters\u00a0in a deal with the Kremlin that would reportedly see him enter into exile in Belarus. It also came after Russian Deputy Foreign Minister Andrey Rudenko flew to Beijing to meet with Chinese officials on Sunday, where the two sides reaffirmed their close partnership and political trust. China\u2019s Foreign Minister Qin Gang and Rudenko exchanged views on \u201cSino-Russian relations and international and regional issues of common concern,\u201d the Chinese Foreign Ministry said in a one-line statement posted on its website, with a photo showing the pair walking side by side while smiling. Russia\u2019s Foreign Ministry said Rudenko also held \u201cscheduled consultations\u201d with China\u2019s Deputy Foreign Minister Ma Zhaoxu. Editor's Note:\u00a0A version of this post appeared in CNN\u2019s Meanwhile in China newsletter, a three-times-a-week update exploring what you need to know about the country\u2019s rise and how it impacts the world.\u00a0Sign up here\u00a0and read the full story\u00a0here.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/d193cf39-5c43-4b26-ab72-7fef8cb25e71.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Zelensky discusses rebellion in Russia with world leaders",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_888973a7b5e16a392be5e31bad32046b",
+            "dateModified": "2023-06-26T04:04:56.920Z",
+            "datePublished": "2023-06-26T01:42:25.681Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_888973a7b5e16a392be5e31bad32046b"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Ukrainian President Volodymyr Zelensky said he has discussed the weekend\u2019s events in Russia with several world leaders, including US President Joe Biden. Zelensky said he also spoke Sunday with Canadian Prime Minister Justin Trudeau and Polish President Andrzej Duda.\u00a0 Zelensky, who in an earlier Telegram post described his conversation with Biden as \u201cpositive and inspiring,\u201d said his discussions also included the frontline situation and further strengthening of Ukrainian forces.\u00a0 Ukrainian Defense Minister Oleksii Reznikov said he has spoken with US Defense Secretary Lloyd Austin about events in Russia as well as Ukraine's counteroffensive.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/775bf9bd-b9bb-4cfc-96f9-9cc9bc2aefc1.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Video shows crash site of Russian military plane reportedly shot down by Wagner forces",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_fcf3fe020466295fe0a7fa92a10f05f8",
+            "dateModified": "2023-06-26T04:10:24.157Z",
+            "datePublished": "2023-06-26T01:32:53.015Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_fcf3fe020466295fe0a7fa92a10f05f8"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Social media video and images have emerged showing the wreckage of a military aircraft reportedly brought down by the Wagner Group in a rural area of southern Russia. The plane\u2019s markings showed that it was a Russian Air Force Ilyushin-22, an aircraft sometimes used as an airborne command and communications center. The Russian Defense Ministry has not commented on the loss of any Il-22 planes. The cause of the crash is not clear, but footage that captured its plunge to Earth indicated it had been struck by a missile or rocket. A Russian military blogger said Saturday that the Wagner forces had shot down an Il-22 aircraft carrying 10 people. Irina Kuksenkova, a correspondent for Russian state-controlled Channel One, said the plane came down near Voronezh, and that Wagner chief Yevgeny Prigozhin had offered to compensate the dead crew\u2019s relatives. Prigozhin has not commented on the crash but claimed Saturday that a Russian combat helicopter was brought down. Video also emerged Sunday of the wreckage of a Ka-52 helicopter in the Talovsky district of the Voronezh region. A Russian military blogger claimed the helicopter had been shot down by Wagner and said the crew had been killed.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/553b6e8e-b8c2-457f-9afc-51ef9566d995.jpg"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Ukraine claims gains around Bakhmut, says nearly 200 Russian troops killed within the past day",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_8fe84f57f08b9520c256582eec79bb93",
+            "dateModified": "2023-06-26T01:20:51.912Z",
+            "datePublished": "2023-06-26T01:20:51.912Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_8fe84f57f08b9520c256582eec79bb93"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Front lines across Ukraine have seen heavy combat over the past two days, with more than 20 engagements occurring in areas in the Donetsk region \u2014\u00a0chiefly Lyman, Marinka and Bakhmut, according to the Ukrainian military. In its operational update, the General Staff said the Russians also carried out 25 airstrikes over the past day. There had been heavy Russian artillery and mortar fire in the Kupyansk area of Kharkiv, where the Russians have been trying to break through for over a month, the Ukrainians said. The General Staff insisted all Russian efforts to take territory had been foiled. Across the Donetsk frontlines, the fighting was characterized by exchanges of indirect fire, but with little movement. However, the Ukrainians say they are on the front foot around Bakhmut. Nearly 200 Russian soldiers had been killed in the past day, and a variety of Russian equipment had been destroyed, according to Cherevatyi. CNN cannot verify Ukrainian claims of battlefield gains, or casualties. In the south, where Ukrainian forces have attempted to break through Russian lines, the General Staff said a Russian effort to regain lost positions in the area of Novodarivka had also failed. Russian artillery continued to strike about 30 settlements along the front lines in the Zaporizhzhia region, it said. In Kherson, Nataliya Humenyuk, a spokesperson for Ukrainian forces in the south, said the Russians struggled to regain positions on the east bank of the river Dnipro, which was flooded by the recent damage to the dam at Nova Kakhovka.",
+            "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_460/9e15978b-1945-4d8c-ab7c-2760781f082e.png"
+        },
+        {
+            "@type": "BlogPosting",
+            "headline": "Analysis: The bizarre and chaotic 36 hours that showed Putin at his weakest in 23 years",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_53d59cf75c1b63638d3556651a8150ef",
+            "dateModified": "2023-06-26T00:50:30.132Z",
+            "datePublished": "2023-06-26T00:50:30.132Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-26-23/h_53d59cf75c1b63638d3556651a8150ef"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNN",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": " https://cdn.cnn.com/cnn/2020/images/02/20/cnn-publisher-img.png",
+                    "width": 103,
+                    "height": 60
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen Magramo, Christian Edwards, Aditi Sangal, Mike Hayes, Maureen Chowdhury and Amir Vera, CNN"
+            },
+            "articleBody": "Desperately projecting that everything is as it was, the Kremlin is only emphasizing how\u00a0much has changed. These were 36 hours\u00a0that provided a glimpse of the end of Russian President Vladimir Putin\u2019s rule. Almost every action was improbable, at best a week ago \u2014 much was inconceivable, 17 months ago. A loyal henchman, Yevgeny Prigozhin, slams the premise of the invasion of Ukraine, then claims an airstrike targeted his troops, before taking a major military town without clashes,  and then marching to within a few hundred miles of Moscow. But suddenly he executes a baffling reversal, turning back to avoid bloodshed, as the Kremlin claims Alexander Lukashenko, the president of Belarus whom Putin seems to treat with contempt, brokered a dramatic reprieve, in which the insurrectionist who has his armor bound for Moscow, now opts for exile in Minsk. Even as the dust settles, it still makes little sense. It is important to remember we have yet to hear from Prigozhin that he has accepted exile in Belarus and see evidence his units have genuinely all stood down. He is an open proliferator of misinformation. We should be equally suspicious of the apparent bow with which Kremlin spokesperson Dmitry Peskov tried to tie this startling episode up with on Saturday night. Two hours earlier, Wagner's forces were at the gates of the capital (almost), and then suddenly everything is forgiven. There are large parts of this story missing. We may never learn what they are. Many emotions could have altered Prigozhin\u2019s course. Was the advance north too easy? Did he accept entering the capital would leave his men vulnerable, even to a weak Russian military response? Was the regular military not joining him in large enough numbers? Did he believe a climbdown would only grow his support? While on the surface, Prigozhin\u2019s climbdown makes him appear weak, even finished, he has been the decision-maker over the past 36 hours. Putin has been left reacting. Silent initially, and then bombastically angry and confident, promising \u201cinevitable punishment\u201d for the \u201cscum.\u201d But hours later, this was all forgotten. Putin\u2019s emotional state \u2014 were it known \u2014 is arguably less revealing than his actions. By letting Prigozhin go, and apparently sweeping the entire insurrection under the carpet, he\u2019s appeared the weakest yet in 23 years. Read the full analysis here.",
+            "image": "https://cdn.cnn.com/cnnnext/dam/assets/230625112553-prigozhin-putin-split-super-tease.jpg"
+        }
+    ]
+}
